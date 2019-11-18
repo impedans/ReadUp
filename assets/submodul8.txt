@@ -1,0 +1,20 @@
+Hvad er en designated fire zone? Et sted hvor der eksisterer en potentiel risiko for brand, i tilfælde af lækage eller fejl.
+Hvordan kan man kontrollere fire protection systemet? Via fire system panels på flight decket - skal gøres "pre-flight".
+Hvad skal et fire protection system som minimum kunne? Kunne holde til flyets operationer, advare crew, være olie- og væskebestandigt, kunne funktionstestes og wirring skal være fire resistant.
+Hvilken indikation får man på en brand? Både visuel og auditiv alarm.
+Hvad sker der hvis der går ild i en APU, mens flyet står på jorden? Skyder automatisk halon beholderen, hvis der er brug for mere, så laver den cross-feed fra de andre systemer.
+Hvor mange extinguishers skal der være, hvis der er plads til 220 passagerer? 4
+Hvad er der specielt ved fire protection på lavatory? Der findes en halon-slukker i skraldespanden, som skyder automatisk, hvis temperaturen kommer over 80 graders celsius.
+Hvordan virker light refraction smoke detector? Via en fotoelectric cell, projection lamb, og en lighttrap måler den afbøjningen af lyset i den luft der er.
+Hvordan virker en ionisation smoke detector? Røgpartikler bliver mere ioniserede end almindelig luft, hvilket kan måles elektrisk og giver en alarm.
+Hvad er en crash switch i et fire protection system? I tilfælde af et crash (eller meget hård landing), vil den blive påvirket, og automatisk udløse alle flyets brandslukningsmidler.
+Hvilken brandklasse indeholder faste stoffer? A.
+Hvad kan slukke brande, der involverer faste stoffer? Vand, pulver, skum, tæppe, halon.
+Hvilken brandklasse indeholder væsker? B.
+Hvad kan slukke brande der involverer væsker? Pulver, CO2, skum og halon.
+Hvilken brandklasse indholder gasser? C.
+Hvad kan slukke brande der involverer gasser? Pulver, CO2 og halon.
+Hvilken brandklasse indeholder metaller? D.
+Hvad kan slukke brande i metaller? Special pulver og halon.
+Hvilken brandklasse indeholder vegetabilske olier/fedt? F
+Hvad kan slukke brande i vegetabilske olier/fedt? Tæppe og halon.

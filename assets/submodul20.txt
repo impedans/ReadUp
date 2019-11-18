@@ -1,0 +1,17 @@
+Hvad står CIDS for? Jeg aner det ikke
+Hvorfra kan CIDS testes? Kun på MCDU i cockpittet
+Hvor meget skal ændres i CIDS, hvis man omkonfigurerer kabinen? Fuld software update eller bytte flash drives update
+Hvorfra kan man styre kabinen? FAPen
+Hvad står FAP for? Jeg aner det ikke
+I hvilken type fly bruges topline og middleline busser? I fly med 2 passagerdæk
+Hvor er softwaren til de 2 directors placeret? FAPen
+Hvad gør de tre Flash Card Readers neders på FAPen? Indlæser flash cards med hhv a, b og c (HJÆLP MIG)
+Hvad bruges Water/Waste siden til på FAPen? At se beholdning af water og waste, samt andre værdier tilknyttet water/waste
+Hvordan ser cabin crew hvem eller hvilket område, der kræver opmærksomhed? Area Call Panel (ACP)
+Hvilke muligheder har piloten for at give besked over PA-anlægget? Head set eller PA-knap på Audio Control Panel
+Hvad står PRAM for? Prerecorded Announcment and Music
+Hvilke lysskilte kan piloten tænde? Return to seat, no-smoking og seat belt
+Kan andre end piloten tænde for Return to seat, no-smoking og seat belt? Nej
+Hvad står IFEC på Airbus A380 for? In-Flight Entertainment Center
+Hvad er CDSS i en Airbus A380? Cock-Pit Door Surveilance System, for at se hvem, der vil ind i cockpittet
+Kan sattelit kommunikation anvendes til telefonsamtaler på nogel fly? Ja

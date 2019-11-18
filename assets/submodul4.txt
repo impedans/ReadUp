@@ -1,0 +1,85 @@
+Hvorfra kommer engine bleed air? Kompressoren i motoren
+Hvilke ting kan levere luft til det pneumatiske system? APU, motor eller ground cart
+External air kobles til flyet via? Ground cart
+Hvad er den vigtiste årsag til at trykrejse kabinen? Sikre den livsnødvendige ilttilførsel til hjernen
+Hvilke 5 ting skal air condition sikre? Temperatur, tryk, renhed, fugtighed og ventilation
+Hvor stor luftudskiftning skal der minimum være? 0.5 lb/min/person
+Hvor afgives energien i et ACM system? Heat exchanger og turbine
+Hvad står ACM for? Air Cycle Machine
+Hvad er formålet med en Temperature Control Valve i en ACM? Holde temperatur på ca. 18-24 grader celcius
+Hvilken type kølemaskine bruges i køleskabe? En VCC
+Hvad står VCC for? Vapor Cycle Machine
+Hvad er komponenterne i en ACC? Water seperator, mix chamber, flow control valve, heat exchanger, kompressor, turbine og temperature control valve
+Hvad gør en water seperator? Udskiller vand fra 2 grader varm luft
+Hvor sidder water seperatoren? Sidst lige inden mixing chamber
+Hvor sidder mixing chamber? Sidst i systemet
+Hvad er formålet med mixing chamber? At blande varm luft og kølet luft for at opnå 18-24 grader celcius
+Hvad er formålet med en flow control valve? At styre hvor meget luft der tilføres en ACC
+Hvor sidder en flow control valve? Aller først i systemet
+Hvad er formålet med en heat exchanger? At køle luften
+Hvor sidder en heat exchanger? Lige før og efter Kompressoren
+Hvad er formålet med en kompressor i en ACC? At komprimere luften, så temperaturen stiger, og vi kan køle luften yderligere
+Hvor sidder kompressoren i en ACC? Lige efter Primary Heat exchanger
+Hvad drives kompressoren i en ACC af? Turbinen
+Hvor sidder turbinen? Lige inden water seperator
+Hvad er formålet med turbinen? At fjerne energi fra luften og derved køle den
+Hvad sker med tryk og temperatur i kompressoren? Stiger og stiger
+Hvad sker med tryk og temperatur i turbine? Falder og falder
+Hvad sker med tryk og temperatur i primary heat exchanger? Falder og falder
+Hvad sker med tryk og temperatur i secondary heat exchanger? Falder og falder
+Hvad sker med tryk og tempertur i den kølede luft i mix chamber? Stiger og stiger
+Hvilke komponenter findes i en VCC? Compressor, evaporator, condensor, expansion valve og reciever
+Hvad sker med tryk og temperatur i kompressoren i en VCC? Stiger og stiger
+Hvad sker med tryk og temperatur i en evaporator? Falder og stiger
+Hvad sker med tryk og temperatur i en condensor? Stiger og falder
+Hvad sker med tryk om temperatur i en expansion valve? Falder og falder
+Hvilken fysisk tilstand findes i en kompressor i en VCC? Gas
+Hvilken fysisk tilstand findes i en evaporator? Væske bliver til Gas
+Hvilken fysisk tilstand findes i en condensor? Gas bliver til Væske
+Hvilken fysisk tilstand findes i en expansion valve? Væske
+Hvor i en VCC findes det relativt høje tryk? I kondensor og reciever
+Hvor findes det relativt lave tryk i en VCC? I evaporator
+Hvad sker hvis temperatur bliver for høj i ACM? Pack valve lukker
+Hvad er forskellen på luft til piloterne og luften til passagere? Piloter får aldrig genbrugsluft
+Hvad er formålet med trim air system? Tilpas temperaturen til forskellige zoner
+Hvilke komponenter ingår i recirkuleringssystemet? Recircling fan, air trim fan, manifold og modulating trim valve
+Hvor bliver luften fra køkken og toilet ventileret hen? Outflow valve
+Hvad hedder ventielen der åbner og lukker for air con? Pack valve
+I hvilke zoner vælges der ofte relativ høj temperatur på air con? Dyre billetter hvor passagererne ikke sidder så tæt
+I hvilke zoner vælges der ofte relativt lav temperatur på air on? Billige billetter hvor passagerer sidder tæt
+Hvad betyder cabin altitude? Tryk i kabine angivet som højde i fod
+Hvorfor er det et problem for mennesker at opholde sig i en højde af mere en 10.000 fod? Der er for lidt ilt tilgængeligt ved indånding
+Hvad er Cabin Rate of Change? Rate for trykændring inde i kabinen
+Hvad er differential pressure? Forskel mellem kabinetryk og ambient tryk
+Hvor hurtigt må trykket i kabinen falde? Svarende til 500 fod/min
+Hvor hurtigt må trykket i kabinen stige? Svarende til 300 fod/min
+Hvornår må trykket i kabinen ændre sig med 500 fod/min? Når flyet stiger og trykkey skal falde
+Hvornår må trykket i kabinen max ændre sig med 300 fod/min? Når flyet falder og trykket skal stige
+Hvorfra kommer luften til trykrejsning af kabinen? Bleed air
+Hvordan bliver trykket reguleret i kabinen? Outflow valve
+Hvad er det "meget forkerte svar" til hvordan tryk reguleres i kabinen? Det er pack valve Schneider
+Hvor mange positiv pressure relief valves er der? 2
+Hvor mange negativ pressure relief valves er der? 2
+Hvilke former for altitude warning er der? Visuel og audiotiv
+Hvorfor er der flere motorer op outflow valve? For redundans
+Ved hvilket kabinetryk falder masker ned til passagere? 14.000 fod
+Ved hvilket kabinetryk lukker outflow valve? 15.000 fod
+Hvad køler pre-cooleren luften til? 170 grader celcius
+Hvilken temperatur efterstræbes i kabinen? 18-24 grader celcius
+Hvor meget luft skal minimum være frisk til passagererne? 50 %
+Hvilke modes kan trykket indstilles efter? Ground mode, take-off mode, flight mode og landing mode
+Hvordan er kabinetrykket i ground mode? Svarende til ambient luft
+Hvordan er kabinetrykket i take-off mode? Svarende til -70 fod i forhold til ambient luft
+Hvordan er kabinetrykket i flight mode? 6000-8000 fod
+Hvorkan er kabinetrykket i landing mode? -100 fod
+Hvordan er outflow valve indstillet i ground mode? Den åbnes helt for at udligne trykket
+Hvad kan piloterne se på deres instrumenter vedrørende tryk? Cabin altitude, differential pressure, rate of change, altitude warning (lyd og lys) og control panel til at indstille tryk hvor der lettes fra og hvor der landes
+Hvad er formålet med blow out panels? At Udligne trykket melle kabine og carbo rum
+Hvorfor er det vigtigt at udligne tryk mellem kabine og cargo rum? Da gulvet ikke kan klare disse belastninger
+Hvad er formålet med ditching valve? At lukke alle ventiler i tilfælde af nødlanding på vand
+Hvad bruges cabin oxygen til? Oxygen til masker i kabinen
+Hvad bruges cockpit oxygen til? Oxygen til maskerne i cockpit
+Hvad bruges portable oxygen til? Oxygen til bærbar maske til kabinepersonale
+Hvilken sikkerhedsfunktion træder i kraft ved 10.000 fod? Lys og lyd advare pilot om at han skal tage iltmaske på
+Hvad er en positiv pressure relief valve? En vetil der åbner hvis kabinetryk bliver 1.33 gange højere end det designede differentialetryk
+Hvad er en negativ pressure relief valve? En ventil der åbner hvis kabinetrykket bliver 0.5 PSI lavere end ambient luft

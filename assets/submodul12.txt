@@ -1,0 +1,15 @@
+Hvilke fire problemer opstår som regel i forbindelse med is? Drag, weight, bad visibilty og tilstopning af pitot
+Inden for hvilket temperaturomårde er der problemer med clear ice? fra nul til minus ti grader
+Inden for hvilket temperaturområde er der problemer med rim ice? fra minus 10
+Hvilke problemer kan is i motorindsugningen give? Air flow disturbance og der kan komme skade på motoren hvis den suger større stykker ind
+Hvordan virker de-icer boots? De puster en beholder op med varm bleed air
+Hvad er det mest almindelige de-icing system til propeller? Elektrisk
+Hvad gør man hvis der allerede er is på flyet inden takeoff? Man sprøjter varm anti-ice væske på
+Hvor ofte bliver pitot/probe heat benyttet? Hver gang motoren starter
+Hvike to de-ice systemer findes der til propeller? Elektrisk og væske
+Hvorfor skal wing anti-ice og de-ice altid operere symmetrisk? Så der ikke skabes ubalance i vægten
+Hvad er formålet med window heat? At der ikke kommer is på ruden
+Hvad er rain repellent? En væske der gør det sværere for vand at sætte sig på flyet.
+Hvornår må et flys vinduesvisker IKKE tændes? Når ruden er tør
+Hvad er anti-ice? Sørger for at der ikke kommer is
+Hvad er de-ice? Fjerner is

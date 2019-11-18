@@ -1,0 +1,33 @@
+Hvordan virker en kemisk oxygen generator? En firing pin skyder ind og giver anledning til en kemisk reaktion
+Hvad står forkortelsen OBOGS for? On-Board Oxygen Generator System
+Hvad er fordelene ved LOX? Kræver ekstremt lidt plads i forhold til hvor meget GOX den kan danne (1:865 ekspansion)
+Hvad er fordelene ved GOX? Let at håndtere, nemt at få fat i og ikke under højt tryk
+Hvor mange procent O2 indeholder luften i atmosfæren og hvordan ændrer det sig med højden? 21 % og det ændres ikke med højden
+Hvordan kan passagermaskerne udløses? Manuelt, pneumatisk eller elektrisk
+Hvilken tryk får oxygenmaskerne til at udløses? Tryk svarende til 14000 fods højde eller derover
+Kan pilot aktivere oxygenmaskerne? Ja
+Kan oxygenmasker udløses af røgdetektorer i flyet? Ja
+Hvad skal foretages hvis oxygensystemet har været adskildt? Systemet skal purges
+Hvor må et purge af oxygensystem foretages? I et GOX alert område
+Hvilken gas bruges til et purge af oxygensystemer? Nitrogen
+Hvilket max cabin pressure opretholdes normalt under flyvning? 6000-8000 fod
+Hvilke oxygensystemer anvendes i luftfart? LOX, GOX, OBOGS og kemisk oxygen
+Hvordan tilsikres det at man har fat i en oxygenvogn? Det står på markaten og den har blå ventiler
+Må der anvendes olie til at smøre fittings i et oxygensystem? Nej. (Glem det der specialfedt Mike...)
+Hvad er en donning mask? Maske til pilot, der kan sættes på med en hånd
+Hvordan aktivers en Mask Lanyard Pin? Ved at der manuelt hives i den
+Hvordan kan man se at en kemisk oxygengenerator har været i brug? Varmefølsom tape eller en orange/lilla markat, der bliver sort ved varmepåvirkning
+Hvilken type Drop Out Ventil anvendes ved Chemical Oxygen Generators? Deenergisen solenoid. En elektrisk ventil
+Hvordan kan man se at Over Pressure indicator har været aktiveret? Grøn blow out disc på ydersiden
+Hvordan aktiverer piloten en Diluter Demand Regulator? Ved at trække vejret ind doserer systemet selv iltmængde
+Hvad er en Pressure Demand Regulator? Et system der selv "trykker" ilt ind til masken. Skal bruges i højder over 40000 fod
+Hvilken farve har blinkeren på en flow indicator? Hvid hvis der ér luft igennem og sort hvis der ikke ér
+Hvor kan piloten få ilt fra når der er valgt NORM på regulatoren? Kabineluft blandet med oxygen. Blanding reguleres af barostat.
+Får piloten nogensinde genbrugsluft fra kabinen? Nej
+Hvad står PSU for? Passenger Service Unit
+Kan "Medical Oxygen" anvendes i stedet for "Breathing Oxygen"? Nej, da det indeholder for meget vand.
+Hvor mange liter GOX giver 2 liter LOX? 1730 liter (Ekspantion på 1:865)
+Hvad er kogepunktet for LOX? -183 grader celcius
+Hvilke materialer anvendes til højtryks oxygenrør? Rustfrit stål eller alulegering
+Hvordan markeres højtryks oxygenrør? Rørne er hvide, og har markater på
+I hvilke typer oxygensystemer kan et Electronic Pulse Demand System anvendes? Contiuous flow system

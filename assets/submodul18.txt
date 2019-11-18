@@ -1,0 +1,12 @@
+Hvad er fordele ved at gemme fejldata fra flyets systemer? Man kan forebygge andre fejl og planlægge sit vedligehold
+Hvordan verificerer man at man har rettet en fejl? Bruger operational test. BITE
+Hvordan kan man se hvor kritisk en fejl er? Det angives på et level fra 1-3
+Hvor kan fejldata fra flyet ses? På MCDU eller tilkoblet bærbar
+Hvad står MCDU for? Multipurpose Control and Display Unit
+Hvad står ECAM for? Electronic Centralized Aircraft Monitor
+Hvordan markeres ECAM fault levels? Med farverne rød, gul og grøn
+Hvad kaldes hovedcomputeren i et On-Boards Maintenance System? CMC (Central Maintenance Computer)
+Hvilken type papir bruges typisk til luftbårne printere? Tyndt varmefølsomt papir
+Hvad er fordelene ved varmefølsomt papir i luftbårne printere? De kræver ikke blæk
+Hvilke systemer bliver konstant monitoreret af BITE? Aircondition, landing gear, hydraulik, anti ice og electrical systems
+Hvilke systemer kommunikerer med CMC? Hydraulik, fuel, strøm, ACARS, ECAM, MCDU og printere (med flere)

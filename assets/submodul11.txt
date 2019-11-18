@@ -1,0 +1,53 @@
+Hvilken type hyd olie er med kompresibel? Mineralsk
+Hvad er en ball type check valve? En envejsventil med en kugle flyder
+Hvad er en cone type check valve? En envejsventil med en flyder kegle
+Hvad er en swing type check valve? En envejsventil med en svingdør
+Hvilken tryk vil du aflæse på en akkumulator, hvis systemet ikke tømmes? 3000-5000 PSI (Systemtrykket)
+Hvad er akkumulatorens opgave? Opbevare tryk og forsyne aktuatorer
+Hvilken gas bruges i en akkumulator? Nitrogen
+Hvad er en restrictor valve? En indsnævret ventil, der sænker trykket
+Hvad er en seqeunce valve? En ventil, der kan forsyne forskellige systemer
+Hvad er en orrifice check valve? En ventil, der kan begrænse flow den ene vej mere end den anden
+Hvilken farve har mineralsk hyd olie? Rød
+Hvilken konsekvens har brugen af forkert hydvæske? Syntetisk hydvæske opløser pakninger til mineralsk
+Hvad vil det sige at en aktuator er balanced? Den forskyder lige meget væske i begge retninger
+Hvad vil det sige at en aktuator er unbalanced? Den forskyder ikke lige meget væske i begge retninger
+Hvad vil det sige at en aktuator er single acting? Hyd kommer ind og ud af samme kammer
+Hvad vil det sige at en aktuator er double acting? Hyd kommer ind og ud af begge kamre
+Hvad er formålet med et trykrejst reservoir? Kunne flyve i lavt tryk
+Hvilken type ventil er en drejeventil? En vælgerventil
+Hvilken type ventil er en glidevælger? En vælgerventil
+Hvad betyder positiv fortrængende? Samme mængde hyd fortrænges hele tiden af pumpen
+Hvad betyder ikke positiv fortrængende? Forskelig mængde hyd fortrænges af pumpen afhængigt af modtryk
+Hvilken type pumpe er en tandhjulspumpe? Positivt fortrængende
+Hvilken type pumpe skal altid have en pressure relief valve? Positiv fortrængende
+Hvilken pumpe er den mest anvendte? Stempel pumpe
+Kan en stempel pumpe regulere sin slaglængde? Ja i mange tilfælde reguleres det via feedback loop
+Hvad er kavitation? Dannelsen af små vacuum lommer i væsken
+Hvilken farve er syntetisk olie? Blå
+Hvad siger Pascals lov? At trykket i en lukket beholder vil fordele sig ligeligt
+Hvad er hyd trykket på almindelige fly? 3000-5000 PSI
+Hvilken type pumpe er en tandhjulspumpe? Positivt fortrængende
+Hvad har en inlet port i en hyd system forbindelse til? Reservoiret
+Hvor findes en button indicator? På filter for at angive filteret snart stopper til
+Hvad skal en heat exchanger? Varme fuel, køle luft og køle olie
+Hvilken type pumpe er en centrifugal pumpe? Ikke positiv fortrængning
+Må mineralsk og syntetisk hydolie blandes? Nej
+Hvad sker hvis mineralsk og syntetisk hydolie blandes? Pakningerne ødelægges
+Hvilken farve har mineralsk hydolie? Rød
+Hvilken farve har syntetisk hydolie? Klar til lys violet
+Hvad sker ved freeze point i hyd olie? Væsken skaber krystaller og filtre stoppes til
+Hvad skal en heat exchanger? Køle olie, varme fuel og køle bleed air
+Hvad viser en button indicator på et filterhus? Filteret stopper snart til
+Hvad viser en indicator på en fuel strainer? Filteret er ved at være stoppet
+Må man have en halvfyldt hydoliebeholder stående? Nej. Heller ikke med handske på Mike!
+Hvad siger pascals lov? Trykket fordeler sig ligeligt i en lukket beholder
+Hvad er hydtrykket på fly? Typespecifikt (Ofte 3000 - 5000 PSI)
+Hvad er et åbent hydsystem? Et reservoir med luft i
+Hvad er et lukket hydsystem? Et reservoir uden luft i
+Hvorfor er et hydreservoir trykrejst? For at fødepumpen og undgå kavitation
+Hvor sidder case drain? Det sidder i pumpehuset til hyd
+Hvor sidder case drain filteret? Det sidder i pumpehuset til hyd
+Hvad er formålet med en RAT (Ram Air Turbine)? Generere energi til vitale funktioner i nødstilfælde
+Hvad er forskellen på en balanced og unbalanced actuator? Balanced forskyder samme mængde i begge retninger
+Hvad skal altid være ved en positivt fortrængende pumpe? En pressure relief valve

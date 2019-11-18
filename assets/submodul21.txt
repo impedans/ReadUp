@@ -1,0 +1,15 @@
+Hvad står FANS for? Future Air Navigation System
+Hvad bruger FANS til at kommunikere? Satellit, HF og VHF
+Hvilket format sender FANS sine beskeder i? Textformat
+Hvad er årsagen til at FANS er implementeret? Mik er det ikke noget med flysik, og undgå miskommunikation pga accent osv
+Hvilke informationer får piloten over FANS? Textbeskeder fra accent
+Hvad er fordelene ved at bruge FANS? At kunne kommunikerer kort og præcist uafhængigt af verbale misforståelser (Ikke også Mik? :D)
+Hvorpå ses beskeder fra FANS-systemet i cockpittet? På MCDUen
+Hvad hedder den centrale komponent, der styrer kommunikationen til og fra jorden i et FANS-cockpit? DCDU
+Hvad står DCDU for? Aner det ikke
+Hvad står EFB for? Electronic Flight Bag
+Hvilke funktioner kan fx være tilgængelig igennem en EFB? Navigation, kommunikation og instrumentvisninger
+Hvilke klasser indeles EFB i? Klasse 1, 2 og 3
+Hvad er en klasse 1 EFB? Et seperat system, der ikke sluttes direkte til flyet. Fx tablet eller computer
+Hvad er en klasse 2 EFB? Et seperat system, der sættes til flyet og får data der fra. Kan fjernes efter flyvning
+Hvad er en klasse 3 EFB? Et integret system, der er permanent indsat i flyet

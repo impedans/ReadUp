@@ -1,0 +1,25 @@
+Hvilken type understel er mest normalt? Tri cycle
+Hvad er formålet med nitrogen i shockstruts? At skabe en fjedrende effekt
+Hvad er formålet med væske i shockstruts? At skabe en dæmpende effekt
+Hvad omdannes energien til når shockstruts komprimeres? Varmeenergi
+I hvilken manual findes proceduren til at bleede og servicere en shockstrut? AMM
+Hvorfor er hastigheden en shockstrut udstrækkes med mindre end når den komprimeres? Ellers kan der ske skade på materialerne
+Hvad bruger man til at pumpe dæk op med? Nitrogen
+Hvorfor pumpes dæk op med nitrogen? Fordi det ikke kan brænde
+Hvad omsætte bevægelsesenergien til i bremserne? Varmeenergi
+Hvornår er der fare for Hot Brakes? High energy landing
+Hvordan beskyttes dækket mod overtryk ved hot brakes? Thermal plug i fælg (160-200 grader celcisus)
+Hvad skal du gøre før du afmontere et hjul? Tage dæktrykket af
+Hvilke legeringer laves fælge i? Magnesium eller aluminium
+Hvilke egenskaber har nitrogen? Komprimerbart, fjedrende og inaktivt(brandhæmmende)
+Hvor anvendes nitrogen? Shockstruts, akkumulatorer og dæk
+Hvad sker med temperatur ved stigende tryk? Temperaturen stiger
+Hvor anvendes hydolie og nitrogen sammen? Akkumulatorer og shock struts
+Hvordan virker nitrogen i oleo ben? Fjedrende
+Hvordan virker olie i oleo ben? Dæmpende
+Hvordan kan man se om LG er nede? Lys i cockpit eller med vinduer og spejle
+Ved hvilkte punkt er fælgen tungest? Ved ventilen
+Hvad angiver det røde punkt på en dæk? Det letteste punkt
+Hvad angiver det gule punkt på en slange? Det tungeste punkt
+Hvordan kan det ses om en bremse er slidt ned? Slidindikaator er flush med strukturen når bremsen er påvirket
+Hvad skal gøres før et fly bugseres? Sakseled skal demonteres

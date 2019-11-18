@@ -1,0 +1,18 @@
+Hvad bruges Pneumatisk luft til? Motorstart, kabinetryk, pressurization af hydraulik og vand reservoir.
+Hvad kan levere luft til det Pneumatiske system? Powerunit, APU og groundpower.
+Hvorfor er det nødvendigt at kunne regulere bleedtrykket fra motorerne? For at have et konstant bleedtryk til det pneumatiske sytem.
+Hvordan bliver temperaturen på luften i det pneumatiske system reguleret? Ved brug af fan-air gennem precooler.
+Hvad bruges crossbleed valve til? Den isolerer det vestre fra det højre Pneumatiske system, samt giver mulighed for at overfører bleedair fra det ene til det andet system.
+Hvad moniteres af Pneumatic Controller? Bleed valve, Crossbleed, Leak detection, Fan valve.
+Hvilke informationer får piloterne fra det pneumatiske system? Fault indicators på Bleedair, Varme og diverse ventiler.
+Hvad kaldes de to trykniveauer hvorfra bleedair bliver taget fra kompressoren? Intermediate pressure IP og High pressure HP.
+Gennem hvad bliver det pneumatiske system distribueret? Gennem wingducts, pylon ducts, APU duct og crossover samt crossbleed manifold.
+Hvor mange pneumatic controllers skal der være på et fly? En pr engine bleed system.
+Hvornår bruges HP valve i bleedair systemet? Når der ikke leveres nok tryk fra IP valve.
+Hvorfra kan APU bleed load valve aktiveres? Det kan aktiveres på en switch i cockpittet.
+Hvad er standard størelsen på ground air connectors? 3 inch eller 3 tommer.
+Hvad styres corssbleed valve af? Den bliver styret manuelt eller automatisk og er drevet af en motor.
+Hvordan opdages der om der er et leak på det pneumatiske system? Ved brug af overheat detectors i ducts.
+Hvilke områder i det pneumatiske system bliver overvåget for leak? Pylon ducts, wing ducts, fusselage ducts og APU duct.
+Hvilke funktioner har pneumatic controller? Den moniterer bleed valve, fan air valve, high pressure valve, leak detection.
+Hvor har man adgang til kontrol af det pneumatiske system? På bleed panel på overhead panel i cockpittet.

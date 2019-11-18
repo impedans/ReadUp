@@ -1,0 +1,165 @@
+On a twin spool gas turbine engine N2 is? The high pressure spool
+On a triple spool engine the HP compressor is driven by? HP turbine
+What happens in the diffuser duct? Static pressure increase and velocity decrease.
+What happens to subsonic air passing through a divergent duct? Decrease in velocity, increase in pressure and temperature
+What is the function of compressor inlet guidevanes? Direct airflow into the rotor at the most desireable angle
+What are the the major components of a gasturbine engine in its simplest form? Kompressor, brændkammer og turbine
+Hvilken funktion har kompressor exitguide vanes? Fjerne turbulens
+Combustion occurs in a gas turbine engine? Konstant tryk
+Brayton cyklussen er også kendt som? Konstant tryk cyklussen 
+Luftintaget i en turbine motor bruges til? Bremse luften inden kompressoren.
+Hvis turbine statorene fungere som en nozzle, hvordan fungere de i motoren? Får hastigheden til at stige og sænker trykket.
+I en to-spolet turbinemotor er HP kompressoren drevet af? Det tidelige stadie af turbinen. 
+Hvilken type turbinemotor laver torque? Turboshaft og turboprop 
+Hvad er det specielle ved en raket? Den er istand til at flyve uden for atmosfæren
+Supersonisk luft som passer en divergent kanal  vil? Stige i hastighed, falde i tryk og temperatur
+Hvad gør en turboprop motor? Flytter en stor mængde luft med lille acceleration
+Hvad gør en axial kompressor? Øger luft tryk og temperatur
+Hvad gør en Turbojet motor? Flytter en lille mængde luft med stor acceleration. 
+Hvilke fordel er der ved en centrifugal kompressor? Lav vægt, høj trykforøgelse pr stage og kort længde.
+En centrifugal kompressor komprimmere luften ved at? Accelerere luften vinkelret til den langsgående aksel i motoren. 
+Hvad er formlen for kinetisk energi? E = 0,5 * m * v^2
+Hvad er formlen for potentiel energi? E = m * g * h
+Hvad kalder vi også potentiel energi? Statisk tryk
+Hvad driver kompressoren rundt? Turbinen
+Hvordan er ram-jet opbygget? Uden kompressor, ligesom efterbrænderen.
+Hvad er pulse-jet? Brænder pulserende. Inlet åbnes og lukkes altså efter trykket i brændkammeret.
+Hvordan adskiller en turbinemotors arbejdscyklus fra en stempelmotor? Processerne i turbinemotorens cyklus foregår samtidig. 
+Hvordan lyder newtons trejde lov? Aktion = reaktion
+Hvordan defineres arbejde? Kræft gange strænkning
+Hvilke fordele har en turbojet samlignet med en stempelmotor? Flere hestekræfter ifh til den vægt. Power to weigt ratio
+Hvordan sakber en fanmotor sin trækkræft? Ens tor mængde luft som acceleres lidt. Ca. 30-75% af luften bypasses.
+Hvad er en turbopro motor? Turbinen driver en propel 
+Hvad er acceleration? Ændring af hastighed per tid
+Hvad er formlen for effekt? P = A/t (Arbejde pr tid)
+Hvad er potentiel energi? Et udtryk for statisk tryk
+Hvad er newtons anden lov? F=ma
+Hvad er en raket? En non-breathing engine. Ilten er blandet op i brændstoffet og behøves derfor ikke luftindtag. 
+Hvad siger Bernoullis lov? Forholdet mellem statisk og dynamisk tryk er konstant
+Hvad sker der med tryk, temp og hastigheden i en kompressor? Tryk og temperatur stiger og hastigheden er konstant.
+Hvad sker der med tryk, temp og hastigheden i brændkammeret? Trykket er konstant, hastigheden er konstant og temperaturen stiger. 
+Hvad sker der med tryk, temp og hastigheden i en konvergent passage (subsonisk)? Tryk og temp falder og hastigheden stiger.
+Hvad sker der med tryk, temp og hastigheden i en devergent passage (subsonisk)? Tryk og temp stiger og hastigheden falder.
+Hvad er ram recovery speed? Den hastighed hvor trykket i indsugningen er lig med trykket udenfor motoren. 
+Hvilket luftindtag bruges ved subsonisk flyvning? Divergent
+Hvilket luftindtag bruges til supersonisk flyvning? Konvergent-divergent. Man kan også bremse luften med shock bølger vha af en spidsforkant.
+Hvad bruges indsugningsdøre til? For at tilføre mere luft til kompressoren. F.eks. ved vertikal letning
+Hvad gør en vortex dissipater? Ødelægger vortex hvirvler vha bleed air når den står på jorden, for at forhindre FOD.
+Hvordan forholder ramtrykket i luftindtaget sig til hastigheden? Trykket stiger expotentielt med hastigheden
+Hvad er en radial kompressor? En centrifugal kompressor, bestående af en impeeler (rotor), (stator) og en manifold.
+Hvad er en axial kompressor? Består af en rotor, stator. levere trykstigningen aksialt.
+Hvad sker der med tryk, temp. og hastigheden i rotoren i en radial kompressor? Tryk, temperatur og hastighed stiger. 
+Hvad sker der med tryk, temp. og hastigheden i statoren i en radial kompressor? Tryk og temperatur stiger, hastigheden falder.
+HVilke fordele er der ved en radial kompressor? Billig, svær at stall, mindre sliddele, kompakt 
+HVorfor ser man ikke 3-trins radialkompressorer? Kan ikke øge trykke nok da den ikke kan få luft nok. 
+Hvordan udregnes kompressorens trykforhold? Total trykforhold = compressionratio opløftet i antal kompressortrin
+Hvad er IGV? Inlet guide vane
+Hvilket formål er inlet guide vane (IGV)? Sørger for at luften kommer inde med den rette vinkel i kompressoren 
+Hvilke faktorer bestemmer indfaldsvinklen på kompressorens rotorblade? Rotationshastigheden og hastigheden på luften
+HVilke stallforebyggende foanstaltninger findes der? VIGV (Variable inlet guide vane), VSG (Veriable stall vane) og bleed air (lukker luft ud af kompressoren)
+Hvad skyldes kompressorstall? Fohindringer i inlet, for stort tryk i brændkammeret, flyvemønster, crosswind og slidte blade
+Hvad giver cascade-effekten anledning til? Øger flowet gennem kompressoren, fordi rotor og stator er placeret så tæt at de hjælper hinanden ved at suge.
+Hvad er fordele har en flerspolet kompressor ifh til en enkeltspolet? Nemmere at starte og kan køre med forskellige hastigehder og dermed kan de bedre samarbejde. 
+Hvad består et kompressortrin af? Rotor og stator
+Hvad er en hybridkompressor? Både en aksial og radial kompressor
+Hvad gør diffusoren? Sænker hastigheden, øger tryk og temp (Divergent kanal) 
+Hvordan er diffusoren formet? Divergent
+Hvor er diffusoren placeret? Aksial: lige før brændkammeret. Radialt: mellem impeller og manifold
+Hvor findes den højeste ensartet temperaturi brændkammeret? Lige inden inlet guid vane/noxxel guide vane
+Hvad bestemmer hvor høj temperaturen kan være? Materiale egenskaberne
+Hvad fremstilles brændkammeret af? Rustfri legering med nikkel.
+HVordan karaktiseres et annular brændkammer? Et brændkammer formet som en ring, men EN indre case og EN ydre case. 
+Hvad skal forholdet mellem luft og brændstof være? 15 gange luft til 1 gang brændstof (15:1)
+Hvordan karaktiseres et brændkammer af can-typen? Flere små brændkamre. 
+Hvor meget af luften går til brændkammeret? 25 %
+Hvad er en reverse flow burner? Luften vendes 180 grader 2 gange. 
+Hvad består ét trin af i turbinen? En stator og en rotor
+Hvad er turbinestatorens opgave? Øge hastigheden igennem en konvergent kanal. Laver statisk tryk til dynamisk tryk
+Hvad er turbinens opgave? Omsætte dynamisk tryk til torque
+Hvad er det statiske tryk lige efter turbinesektionen i en turbojet og turbofan? Højere end ved inlet. Bruges til at lave thrust.
+Hvad er det statiske tryk lige efter turbinesektionen i en turboshaft? Så lavt som muligt.  
+Hvilke to typer tubine blade findes der? Impuls og reaktion
+Hvad er turbinerotorblade fremstillet af? single krystal, nikkellegering
+Hvordan fastgøres turbinerotorblade? Fir-tree. 
+Hvordan sidder kompressorrotorblade fast? Med dovetail
+Hvordan er det muligt at operere i temperaturer op til 1450 C i turbinen? Køling fra bleed air fra HP kompressoren
+Hvad er kryb (creep)? Hvor der sker materialeforlængelse grundet centrifugalkræften og temperatur
+Hvorfor er nogen motorer udstyret med CD-exhaust? Så man får supersonisk exhaust
+Hvad er formålet med en exhaust-collector? Rette turbulent flow til laminar og holde lejet til turbineakslen
+Hvordan virker corrugated noise suppressor? Øger frekvensen, så lyden vandre en kortere afstand.
+Er der nogen begrænsninger for brugen af thrust reverser? Kan ikke bruges under 60 knob, pga. FOD og risiko for stall.
+Hvor høj er afgangshastigheden fra turbine-nozzlen? Så høj som mulig
+Hvordan er olie-flow i turbinensmøresystemet? Meget højt
+HVordan er olieforbruget i et turbinesmøresystem? Lavt. mindre end 0,3L/hr
+Hvilken olietype bruges i turbinen? Syntetisk
+Hvilke egenskaber ønsker man fra olien? Lav viskositet, høj viskositetsindex, høj flashpoint
+Hvad betyder et højt viskositetsindex for olie? Lille viskositetsændring ved temperaturændring
+HVilke to smøresystemer bruges? Wet sump og dry sump.
+Hvad er wet sump? Hvor olien er i motorhuset. der er slyngsmørring
+Hvad er dry sump? Hvor olien er i et ekstern tank. Systemet smørres med tryk.
+HVilke typiske komponenter findes i et turbinesmøresystem? Olietank, pressure pump, savenger pump, filter, pressure relief valve, oil cooler, filter bypass valve, temperatur bypass valve og bearing filter.
+Hvordan tætnes et labyrinth seal? med kompressor bleed air. 
+Hvilke pumper ses smøresystemt? Gear pump, gerotor pump og vanetype pump
+Hvad er bypass funktionen i et olie filter til for? I tilfælde af at filteret stoppes til. Hellere beskidt olie frem for ingen olie.
+HVilken typer oliekøler er den mest anvendelige? Oil to fuel heat exchangerš
+Hvilke instrumenter anvendes i et oliesystem? Olie og temperatur display
+HVilke egenskaber kræves af turbinebrændstof? lavt frystepunkt, højt flammepunkt og høj brændværdi
+Hvilket formål har varmeveksleren "Air to fuel" i fuelsystemet? At opvarme fuel med bleed air.
+Hvorfor ønsker man at varme fuelen i motoren? For at det ikke fryser. 
+Hvordan køles olien i oliesystemet? Med enten en "air to oil" varmeveksler eller en "fuel to oil" varmeveksler
+Hvad er fordelene ved en "fuel to oil" varmeveksler? Den både varme brændstoffet og køler olien
+Hvilke krav stilles til turbinemotorbrændstof? Lavt frysepunkt, høj brandværdi og ringe evne til at bære vand
+Hvilken type brændstof anvendes civilt? Jet A1(kerosene)
+Hvad er brændværdien for kerosene? 18500 BTU
+Hvad forstås ved en væskes damptryk? Det tryk en væske fordamper ved givet en fast temperatur
+Hvad skylde mikrobevækst i fuel? Vand i fuel
+Hvad skal en fuel-control regulere? Mængde fuel der levers til brændkammeret
+Hvad bestemmer en fuel-controls leveringsmængde? PLA (Power Lever Angle)
+Hvilke typer brændstofpumper ses ofte i brændstofsystemer? Gear-, geroter- og vane type
+Hvad fortæller et flow-meter? Massen af fuel der aktuelt bruges pr tid
+Hvilken funktion har en fuel flow divider? At styre spray pattern i fuel nozzlen
+Hvad er dumpvalvens opgave? Dumpe fuel fra dyserne
+Hvordan er en simplex fueldyse opbygget? Den tager fuel fra en enkelt manifold
+Hvordan er en duplex fuel nozzle opbygget? Den tager fuel fra to manifolder
+Hvad betyder EPR? Engine Pressure Ration
+Hvad betyder FADEC? Full-Authority Digital Electronic Control
+Hvor mange kanaler benyttes i et FADEC system? 2 (A og B). Det ene overvåger der andet
+Hvad kaldes de tre primære sektioner i en fuel control? Governing, limiting og fuel metering
+Hvad er en Supervisory Electronic Engine Control(SEEC)? Et redundant system, der overvåget fuel control og har kontrol over enkelte valves.
+Hvilke input sendes ind i et fuelkontrolsystem? PLA, compressor inlet total temperature, compressor RPM og burner temperature
+Hvad er et surge? En luftstrøm den forkerte vej igennem en motor
+Hvilken funktion har svingklodserne i en "basic fuel control"? De genopretter ligevægten for fueltilførsel ved en variabel PLA
+Hvilke spændinger tilføres tændingssystemer? 28 V DC eller 115 V AC
+Hvad betyder det at et system arbejder med periodisk drift? Der behøves ikke kontinuerlig ignition, da forbrændingen holder sig selv igang
+Hvilke tændingssystemer bruges i turbinemotorsystemer? Impingement, pneumatisk eller combustion
+Hvorfor behøves der ikke kontinuerlig tænding i et brændkammer? Der er konstant forbrænding i kammeret
+Hvilke typer tændrør findes der? A, B, C og D. A og B er højspænding (~20.000 V) og C og D er lavspænding (~1000 V)
+Hvordan er startforløbet for en tospolet motor? Starter tændes, N2 kompressor roteres, ignition tænder, fuel tilføres, der nås self-accelerating speed, starter cuttes ud og motor når idle speed
+Hvilken startertype er den mest almindelige? Pneumatisk starter
+Hvad er en APU? En Auxillary Power Unit, der primært anvendes som starter
+Hvilke typer turbinemotorer anvender el-startere? Små turbo-prop motorer
+Hvad er en 'air impingement starter'? En ekstern blæser, der blæser direkte på turbinen
+Hvorfor er det vigtigt at have en brændstoftemperaturmåler? For at sikre fuel har høj nok temperatur til at flyde nemt og uden kavitation
+Hvad betyder EGT? Exhaust Gas Temperature
+Hvad måler et torque-meter? Torque på akslen via. den mekaniske faseforskydning
+Hvad måler en thrustmåler? EPR. Engine Pressure Ration
+Hvad er en turboshaft motor? En turbinemotor hvis primære output er torque
+Hvorfor er det nødvendigt med en reduktionsgearkasse i en turboprop? Fordi turbinen skal køre med langt højere hastighed en propellen kan klare for at fungere optimalt
+Hvad er en klasse B brand? En væske brænd. Fx fuel eller olie
+Hvilke minimumskrav stilles til fire detection? Der skal være et sperat system for hver motor, der er robust overfor fejl og har sensorer tilpasset hvor de sidder
+Hvordan slukkes en motorbrand i en turbinemotor? Først isoleres systemet fra fuel, hyd og el. Herefter anvendes op til 2 beholdere med N2, CO2 eller halon.
+Hvordan slukkes en brand i en APU ifht. en almindelig turbinemotor? På samme måde, der er dog typisk kun en beholder at skyde af
+Hvad er FOD? Forign Object Debris. Uønskede objekter, der kan suges ind i motoren
+Hvad er en "wake"? Det er en højfarts luftstråle efter motoren
+Hvor store fareområder er der som tommelfingerregel forudo og bagud for en turbinemotor? 25 fod foran, 100 fod bagud v. idle og 200 fod bagud ved take-off
+Hvordan virker en singleshaft motor? Det er en direct drive. Altså propel, power turbine og kompressor er alle på samme aksel
+Hvorfor benyttes flat rating på turboprop motorer? Propellen kan levere mere power end strukturen kan holde til
+Hvor benyttes turboshaftmotorer? Helikoptorer og APU'er
+Hvad er APU'ens hovedopgave? At fungere som starter
+Hvilken type kompressor anvendes ofte i APU'er? En centrifugalkompressor
+Hvorfor placeres APU'en ofte bagesrt i fastvingede fly? For at isolere den fra vital flystruktur
+Hvilke typer output har en APU? Strøm og bleed air
+Hvilket brændstof driver APU'en? Samme som de andre motorer
+Hvilke 3 sektioner består en APU normalt af? Power section, compressor section og gear box
+Hvordan er APU'en beskyttet mod brænd? Fire wall og fire extinguisher
+På hvilke fly er der krav til at kunne starte en APU i luften? ETAPS fly, der flyver langt over vand

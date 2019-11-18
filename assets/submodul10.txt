@@ -1,0 +1,49 @@
+Hvad gør et Jettison system? Dumper fuel
+Kan man jettison alt fuel på et fly? Nej
+Hvad er formålet med fuel tank vent systemet? At ventilere fuel tankene for at skabe overtryk så fuel dampene holdes nede
+Hvor kommer luften til tankene fra? Udefra eller kabinen
+Hvad er direkte dræning? Med en ventil på det laveste niveau
+Hvad bruges fuel transfer til? At overføre fuel fra en tank til en anden
+Hvilke komponenter bruges til fuel transfer? Boosterpump, fuel feed manifold og valves
+Hvad er kendetegnende for jet A brændstof? Flashpoint +38 grader - Frysepunkt -40 grader
+Hvad er kendetegnende for jet A1 brændstof? Flashpoint +38 grader - Frysepunkt -47 grader
+Hvad er kendetegnenede for jet B brændstof? Flashpoint +20 grader - Frysepunkt -50 grader
+Hvad er kendetegnende for JP5/F44 brændstof? Flashpoint +60 grader - Frysepunkt -46 grader
+Hvad er Flashpoint i forbindelse med brændstof? Det punkt hvor der skabes antændelige gasser
+Hvad er Freezing point i forbindelse med brændstof? Det punkt hvor brændstoffet fryser til is
+Hvorfor er vand i brændstof et problem? Det kan skabe bakterier der sætter sig i filter og pumper
+Hvad er en integral tank? En del af strukturen på flyet som f.eks wet wing
+Hvad er en bladder tank? En tank der er lavet af gummi og som kan tages ud af strukturen
+Hvad er formålet med fuel feed systemet? At få brændstof til motorerne
+Hvor mange pumper skal der mindst være til en motor? 2
+Hvad er en boost pump bypass valve? En envejs ventil til at lukke fuel ud
+Hvad er formålet med trim tank systemet? At spare brændstof
+Hvad er gravity fueling? Når der tankes ved hjælp at tyngdekraften fra f.eks toppen af vingen
+Hvad er pressure fueling? Fuelen bliver presset ind i tanken
+Hvad måler en quantity probe? Hvor meget brændstof der er i den pågældende tank
+Hvordan defineres flashpoint? Temperatur hvor fuel kan antændes
+Hvad er flahspoint for 100 LL AVGAS benzin? -40C
+Hvad er flashpoint for Jet B? -20 grader C
+Hvad er flashpoint for Jet A og A1? 38 grader C
+Hvad er flashpoint for JP5? 65 grader C
+Hvad er flashpoint for mineralsk hyd olie? 95-100 grader C
+Hvad er flashpoint for syntetisk hyd olie? 175-200 grader C
+Hvor vil vand findes i fueltanken? På bunden (vand er tungere end fuel)
+Hvad er formålet med at fjerne vand for fuel? Hindre mikroorganismer og is i fuel
+Hvad er et direkte dræn? Ventil direkte i beholder
+Hvad er et indirekte dræn? Ventil forbindes med rør til beholder
+Hvad bruges en vent tank til? Få luft ud af fuel tanken
+Hvad er en integral tank? En tank indbygget i strukturen (Fx wet wing)
+Hvad er en bladder tank? Det er en gummisæk fyldt med fuel
+Hvad er en build up tank? En tank ligesom i en bil
+Hvad er formålet med hullede plader i tanken? At dæmpe fuel inde i tanken
+Hvad er formålet med trimtanke? At kunne flytte CoG i flyet så det bliver mere effektivt
+Hvad er formålet med fuel jettison systemet? At dumpe fuel i tilfælde af nødlanding
+Hvad er formålet med fuel feed systemet? At feede fuel til motoren
+Hvad består fuel feed systemet af? Pumper, ventiler og en manifold
+Hvor mange booster pumps skal der være pr motor? 2
+Hvad er formålet med en bypass valve i booster pumpen? Lede fuel udenom hvis pumpen går i stykker
+Hvad er crossfeed valvens formål? At kunne føde fuel fra et system til et andet?
+Hvad er formålet med en high level sensor i tanken? Et fortælle tanken er fuld
+Hvad er formålet med en low level sensor? At fortælle tanken er tom
+Hvad er formålet med en drip stick eller magnetic floater indicator? Måle benzinstanden manuelt

@@ -1,0 +1,33 @@
+Hvor mange punkter er der på en pilots sele? 5
+Hvilke krav er der til seler? De skal kunne åbens med en hånd og efterses samt vedligeholdes jf. AMM
+Hvad står ELT for? Emergency Location Transmitter
+Hvor mange punkter skal der være på en sele til et pilotsæde? 5
+Hvor mange punkter skal der være på en sele til cabin crew? 3
+Hvor mange punkter skal der være på en sele til passagerer? 2
+Hvor mange hænder skal der bruges for at åbne en sele på et fly? 1
+Hvor finder man time limits op hvornår seler skal efterses? AMM
+Hvor finder passagerer på et fly life veste? Under sædet
+Hvor finder piloten sin life vest? Bag sædet
+Hvordan pustes en life vest op? Med en Co2 patron eller manuelt
+Hvad kan høre med til en life vest? Fløjte, spejl og lys
+Hvem kan aktivere evacuation signal? Piloten, cabin crew og purser
+Hvilke frekvenser sender en emergency locater transmitter på? 121,5, 243 og 406 mhz
+Hvilke oplysninger er kodet ind i en emergency locater transmitter? Flynummer og landekode
+Hvornår er det tilladt at teste en emergency locater transmitter? De første fem minutter i hver time
+Hvem skal informeres når man tester emergency locater transmitter? Air traffic control
+Hvornår aktiveres en emergency radio beacon? Når den kommer i berøring med vand
+Hvad er et galley op et fly? Et køkken
+Hvad er formålet med rapid decompression panels? At udligne trykforskel ved pludselig trykfald
+Hvordan fæstnes net og stropper i cargo compartment? Med rails og latches eller øjer i strukturen
+Hvordan kan bagagen holdes fast hvis der ikke bruges net eller stropper? Den kan opbevares i containere
+Hvad er formålet med isolering på et fly? At isolere mod kulde og støj - kan også være brandhæmmende
+Hvorfra kommer der støj når man flyver? Fra motoren og aerodynamisk støj
+Hvilke frekvenser er der særligt fokus på når der isoleres? Høje (Talefrekvenserne)
+Hvilke frekvenser er svære at begrænse på at fly? lave
+Hvilke krav er der til materialerne sæderne i et fly blive lavet af? De skal være brandhæmmende
+Findes der metoder for stewardessen til at se om hattehylderne er tomme? Ja, spejle
+Hvordan åbnes en låst toilet dør udefra? Bag ved lavatory skiltet eller med værktøj
+Hvordan sættes sæder fast i et fly? Med rails i gulvet
+Hvor lang tid må det max tage at puste en slide op? 10 sekunder
+Hvilken gasart bruges til at puste en slide op? Nitrogen
+Hvad kan en slide bruges til andet end at komme ud af flyet med? Den kan bruges som en redningsflåde

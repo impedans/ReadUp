@@ -1,0 +1,124 @@
+Hvor anvendes DC generatorer? I små fly under 60 mennesker
+Hvilken type belastning er flaps på et strømsystem? Intermittent load
+Hvilken type belastning er kabinelys? Continuous load
+Hvad definerer et vitalt system? Skal køre for at flyet kan flyve
+Hvad definerer et essentielt system? Kritisk og kan påvirke sikkerhed i stor grad
+Hvad definerer et non-essential system? Det er 'nice to have'. Fx lys i kabinen
+Hvor meget af generatorens kapacitet må der konstant trækkes? 80 %
+Hvad er en busbar? En strømskinne til føring af strøm
+Hvordan fordeles belastningen på en parallel bubar? Ligeligt over alle flyets generatorer
+Hvor mange generatorer kar forsyne den samme bus, på samme tid, i et split bus system? Kun 1
+Hvad er en current transformer? En sensor af strømmen i en ledning
+Hvad er en sikring designet til at reagere på? For høj strøm
+Hvad er en circuit breaker? En mekanisk switch til at koble et system fra og til
+Hvad er en primær battericelle? Et engangs batteri
+Hvad er en sekundær battericelle? Et genopladeligt batteri
+Hvordan testet en Generator Control Unit(GCU)? Med en BITE-test
+Hvilken enhed laver differential protection? Generator Control Unit
+Hvilken type batteri er lithium-ion? Et sekundær batteri
+Hvilken type batteri er et bly batteri? Det er et sekundær batteri
+Hvilken type spænding leverer et batteri? DC
+Hvilken type batteri er et lithium-cadmium? Sekundær batteri
+Hvilken type celle er oftest billigst? Primær celler
+Hvilken type celler er generelt mindst relativ til kapacitet? Primær celler
+Hvilken type celle aflades typisk hurtigst? Sekundærceller
+Hvad begrænser hvor stor strøm et batteri kan levere? Overfladearealet på cellerne.
+Hvilken type generator kan bruges som starter? DC-generator
+Hvad er som regel max output på en DC generator? 300 A
+Hvad betyder "self excited"? Feltspolen magnetiseres af generatoren selv
+Hvad betyder "seperatly excited? Feltspolen magnetiseres af et ekstern system
+Hvad betyder det at en generator er en PMG? Permanent Magnet Generator er en generator, der here tiden er magnetiseret
+Hvad slides mest på en DC-generator? Brushes and commutators
+Hvad er outputet på en moderne AC-generator i fly? 3 faset 400 hz 115V/200V AC
+Hvad er det vi regulere på en AC-generator? Frekvens og spænding
+Hvilken type regulering er der på en AC-generator der skal køres med konstant hastighed? Mekanisk regulering
+Hvorfor bruges lithium-ion batterier fremfor nickel cadmium? Lette, ingen memory effekt, stor kapacitet, hurtig at oplade og høj effekt.
+Hvilken fare er der ved nickel cadmium batterier hvis de mister væske? De kan brænde
+Hvilket batteri har 'memory effect'? Nickel cadmium
+Hvilken type regulering er der på en AC-generator, der kan køre med variabel hastighed? AC ensrettes til DC, der inverteres til AC
+Hvad indeholder en integrated drive generator? Regulering og generator
+Må hastigheden på generatorinputtet variere i et constant speed system? Nej
+Må hastigheden på generatorinputtet variere i et variable speed system? Ja
+Hvad betyder 'field excitation'? Felt magnetisering
+Hvorfor anvendes en Constant Speed Drive(CSD)? Holde frekvensen på outputet til 400 Hz
+Hvorfra trækkes strømmen i en brushless AC-generator? Statoren
+Hvilken type spænding sendes ind i en transformator? AC (Vekselstrøm)
+Hvad bestemmer en motors output? Omdrejningshastighed og feltstyrke
+Hvordan reguleres feltstyrken med en vibrating contact regulator? Ved at hurtigt tænde og slukke for strømmen gennem felt spolen med forskellige intervaller
+Hvad reguleres på AC-generatoren for at holde konstant output? Feltstyrken
+Hvad regulere en carbon pile voltage regulator? Felt styrken i generatoren
+Hvad er en solid state regulator? En elektronisk regulator
+Hvad sikre en reverse current relay? Strøm tilbage igennem generatoren
+Hvad er en exciterspole? Den spole, der generere generatorens felt
+Hvordan reagere en exciter spole i serie på varierende load? Den variere ligefremt proportionelt med loaden
+Hvordan reagere en shunt spole på varierende load? Feltstyrken er uafhængig, generator output falder
+Hvordan reagere en compund spole på varierende load? Tilpasset til load
+Hvor findes bly-batterier typisk? I gamle fly
+Hvad gør en inverter? Konverterer DC til AC
+Hvordan virker en rotary inverter? DC motor driver en AC-generator
+Hvordan virker en static inverter? Solid state løsning/Elektronisk løsning
+Hvad gør en transformer rectifier unit(TRU)? Ændre spændingen på AC-input og enretter til jævnstrøm
+Hvilken elektrisk komponent anvendes til transformation? En spole (evt med metalkerne)
+Hvilken elektrisk komponent anvendes til ensretning? En diode
+Hvor mange pins er på en DC-socket? 3 pins. Jord, positiv og negativ
+Hvor mange pins er på en AC-socket? 6 pins. 3 faesr, 1 neutral og 2 ground power interlocks
+Hvad sikre ground power interlocks? At strømmen slukkes hvis stikket falder ud
+Hvad kontroleres i phase fault detection? Rækkefølgen på faserne
+Hvor sidder en APU i de fleste fly? I halen
+Hvad kan en APU generere til flyet? Strøm, bleed air  og hydtryk
+Hvilken type motor er en APU? En turbo shaft motor
+Hvad er en Ram Air Turbine(RAT)? En emergency power generator
+Hvad betyder "rectifier"? Ensretter
+Hvad er en Circuit breaker? En afbryder og en sikring. Ikke smelte sikring
+Hvad er fordelen af slow fuses? Kan bruges ved start af motor. Smelter ikke ved spidsbelastninger
+Hvad er en quick fuses? Smelter så snart den kommer over limit.
+Hvad smelter sikringen? Strøm , ikke varme.
+Hvad er over/under excitaionen? Feltstyrken er for lav eller for høj
+Hvad er excitation? Feltstyrke
+Hvilken frekvens bruges der i fly? 400 Hz
+Hvilken spænding bruges de ri fly? 115 V
+Hvad tænkes som kontinuerligt elektroniske belastninger? Lys, radio, fuel pump etc
+Hvad tænkes som intermittent elektroniske belastninger? Landing gear, flaps, trim, etc
+Hvad ses som essential servies? Kristike, men vi falder ikke ned. 
+Hvad laver en inverter? Laver DC til AC
+Hvad laver TRU (Transformer recitifier unit)? LAver AC til DC
+Hvad er fordele ved primær batterier? Billige, lille volumen ifh til kapacitet, og aflades langsomt (lang leve tid)
+Hvilken type batterier bruger man i fly? NIckel-cadmium, Lead, og Lithuium-ion
+Hvilken type batteri er brugt på nye fly? Lithium-ion
+Hvordan kan et batteri kobles for at få større spænding? Seire
+Hvorfor bruge Lithium-ion frem for nikkel-cadmium? Ingen memory effekt, high power capacity
+Hvornår bruges DC generator? På ældre fly, op til 60 sæder, op til 300A
+Hvad er DC? Jævnstrøm
+HVad hedder kulene i en generator? Brush
+Hvad gør en converter? Sikre den ønsket frekvens, selvom der ikke er konstant omdrejning af rotoren
+Hvad er solid state voltage regulation? Regulering af spændingen på magnetfeltet, for at sikre konstant spændingsout på generator
+Hvad er forskellen på rotary inverter og static convertor? Rotary er en mekansik og static er en elektronisk konvetering fra DC til AC.
+Hvorfor kontrolere man rækkefølgen af faserne med en Face Fault detector? For at sikre at den tilkoblet motor ikke er koblet til modsat og dermed drejer modsat rundt. 
+Hvad gør man ved circuit breakers når man skal arbejde på flyet? Man trækker den og låser den med nogle klips.
+Hvad udløser sikringer og curcuit breakers? Det gør en for høj strøm.
+Hvilke typer batterier anvendes ofte i minder og ligeledes ældre fly? Blybatterier.
+Hvorfor anvender man strømtransformere? For at måle strømmen så man kan identificere korslutninger.
+Hvad er forskellen på et primary cell batteri og et secondary cell batteri? Secondary kan lades op og genbruges, primary kan kun bruges en gang.
+Hvor anvendes der oftest DC-generatorer? Mindre fly med under 60 passagerere og generelt i ældre fly.
+Hvad er forskellen på split og parallel busbar? Ved splitbusbar kan generatorer ikke kobles på samme tid, ved parallel busbar er loaden af alle generatorer delt af en synkroniseringsbus, og kan derfor startes.
+Hvad er non-essential? Det er ren service.
+Hvilke komponenter bliver slidt mest i en DC-generator? Brushes (kul) og commutator.
+Hvilke kompenenter adskiller sig i en DC-generator og AC-generator? I stedet for en commutator er der sliprings.
+Hvad er en current limitters? En stor udgave af en smeltesikring til heavy current.
+Hvordan virker en elektronisk circuet breaker? Elektronisk og den kan fjernstyres. 
+Hvad er en current transformer? Den måler strømsforskellen før og efter generatoren og virker som en sikkerhedsafbryder. 
+Hvilke fejl beskytter en Generator Control Unit mod? Over/under Excitation (Feltstyrke), Over/under Voltage, Over/under Frequency, Differential Protection, Oscillasation.
+Hvad er en BITE-test? En funktionstest af GCU'en. (Generator Control Unit).
+Hvad er Vital Services? "Skal køre" Nødvendige i nødstilsfælde, vitale flight instruments, nødbelysning, brændslukker osv. og er koblet direkte til batteriet. 
+Hvilke primære power sources findes der? AC generatorer, DC generatorer, Batterier, APU, Ground Power Unit, RAT (Ram Air Turbine)
+Hvilke celler kan genoplades? Sekundære celler.
+Hvilke celler kan ikke genoplades/genbruges? Primær celler.
+Hvordan kan et batteri kobles for at opnå større strøm? Parallelt.
+Hvad sker der hvis der er for lidt væske(elektrolyt) på et nickel-cadmium batteri? Kan gå i brand ved opladning.
+Hvad er memory degradation? Hvis et batteri ikke aflades op oplades helt, forringes dets kapacitet.
+Hvad sker der hvis der tilføres strøm til en DC generator? Så virker den som motor.
+Hvad er formålet med en Constant Speed Drive Unit? Sørge for at holde den samme frekvens ved at holde et konstant omdrejningstal på generatoren. 
+Hvad er en integrated drive generator? Generator og Constant speed drive er bygget sammen.
+Hvad er Carbon Pile voltage regulation? Det er 1 ud af 3 typer af spændingsregulatorer.
+Hvad består en Three Unit Control Panel af? Spændingsregulator, Strømregulator og Reverce current relay.
+Hvad er ulempen ved reverce current igennem en generator? Så vil den virke som motor, hvilket er skidt hvis den ikke er dimensioneret til det.

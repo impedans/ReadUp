@@ -1,0 +1,22 @@
+Hvilke farver har anti collision lights? Hvidt og rødt(anti collision beacon lights)
+Fra hvilke sider skal anti collision lights kunne ses? Skal kunne ses fra alle vinkler og vise hele flyets omrids
+Hvor stor en vinkel skal navigationslys på vingespidsen dække? 110 grader
+Hvilken vinkel skal navigationslys på halen dække? 2*70 grader (140 grader i alt)
+På hvilken side af flyet anvendes grønne navigationslys? Højre side
+Hvilken farve anvendes på venstre side af flyet? Røde
+Må navigationslys blinke? Nej
+Hvilke typer external lights findes der? Landing, taxi, navigation, wing, anti collision light, position, wing inspection, logo light and ice indicator light 
+Hvad er forskellen på en glødepære og en HID lampe? HID lampen får en gas til at lyse og den anden en tråd
+Hvad er fordelen ved en HID lampe i forhold til glødelampen? Længere levetid, mere effektiv og kraftigere lys
+Hvilke forholdsregler skal der tages i forhold til HID lamper? De er under højt tryk og kan derfor eksplodere
+Hvad er fordelen ved en LED lampe i forhold til glødelampen? Effektive, hvidt lys, lang levetid og lav spænding
+Hvad står LED for? Light Emitting Diode (Lysudstrålende Ensretter)
+Hvilken spænding anvendes til LEDer? 5 V DC
+Hvad er formålet med navigationslys? At vise flyets orientering, og derved hvor flyet er på vej hen
+Hvilke to typer anti collision lights og beacon lights bruges? Hvide strobe lys og rotorspejl
+Hvad bliver oplyst i nødstilfælde? Gulv, nødudgange, instrumenter og nødudstyr
+Hvilke typer interior lights findes? Flood light, panel integral, service lights, warning, caution og indication
+Hvilke instrumenter har lys hvis der kun er emergency power på flyet? Dem i basic T
+Hvad kaldes det lys, der udsendes af en "self-powered" kilde? Beta light
+Hvad kalder man det lys, der belyser døre ved nødsituationer? Emergency lights
+Hvad betyder caution light? At der er opstået en situation, der ikke er direkte farlig, men at visse handlinger nu kan være farlige

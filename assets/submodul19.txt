@@ -1,0 +1,13 @@
+Hvad står IMA for? Integrated Modular Avionics
+Hvilke fly bruger IMA? Store passagerfly
+Hvad er forskellen på IMA og LRU? Mange funktioner er samlet i en box
+Hvad står LRU for? Det aner jeg ikke
+Hvad er forskellen på klassisk ARINC-429 og ethernet? ARINC-429 er simplex og ethernet er full duplex
+Hvilken flyver bruger ARINC-429 som sin primære bus? Airbus 777
+Hvad er fordelene ved et switched ethernet? Alt kører på samme bus, så vi spare vægt og ingen behøver vente med at sende deres data
+Hvad betyder det at et netværk er simplex? Envejs kommunikation hvor der er en, der kan snakke ad gangen
+Hvad betyder det at et netværk er duplex? Tovejs kommunikation hvor der er en ad gangen, som kan tale
+Hvad betyder det at et netværk er full duplex? Tovejs kommunikation hvor alle kan snakke på samme tid
+Hvad hedder netværkverdenerne i Airbus A-380? Avionics World og Open World
+Hvad står AFDX for? Avionics Full Duplexed Switched ethernet
+Hvad er fordelene ved IMA i A-380? Der er off the shelf komponenter, der gør flyet hurtigt kan konfigureres

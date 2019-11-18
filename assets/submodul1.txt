@@ -1,0 +1,37 @@
+Hvad er en flaperon? En kombineret aleron og flaps.
+Hvilken akse er yaw-aksen? Det er z-aksen.
+Hvilken akse er roll-aksen? Det er x-aksen.
+Hvilken akse er pitch? Det er y-aksen.
+Hvilket luftindtag anvendes i supersonisk flyvning? Konvergent-divergent.
+Hvad er en ruddervator? Kombineret rudder og elevator.
+Hvad er en vortex dissipator? En luftstråle af bleed air til at forhindre vortex ind i motoren.
+Hvad er de primære rorflader? Elevator, rudder, aleron og roll spoiler
+Hvad er sekundære rorflader? Speed brake, lift dumpers, flaps, slats og tabs.
+Hvad er rorfladers aerodynamiske egenskab? De ændre lift ved at ændre camber og AoA
+Hvad bruges et offset hinge til? At bevæge rorne
+Hvad bruges horn balancing til? At bevæge rorne
+Hvad bruges tab balancing til? At bevæge rorne
+Hvad er en control tab? En lille tab, der bevæger resten af roret fx trim
+Hvad er en geared tab? En tab der bevæges af resten af roret
+Hvilke flader er kombineret i en all moving tail? Horisontal stabilizer og elevator
+Hvad er en taileron? Aileron, horisontal stabiliser og elevator kombineret
+Hvad er en stabilator? En kombineret stabilisor og elevator. Samme som en all moving tail
+Hvad er en all flying tail? En kombineret horsiontal stabilisor og elevator
+Hvad vil det sige at flyve koordineret? Normalkraften peger nedad mod gulvet i flyet
+Hvad er formålet med lift inducing devices? Forøg lift så du kan lande og lette på kortere baner, og med lavere hastighed
+Hvad er en slottet fowler flap? På trailing edge er flappen opdelt i flere dele. 
+Hvad er en slat? En leading edge auxillary airfoil
+Hvilke primær rorflader er kombineret i en V-tail? Rudder og elevator
+Hvilke rorflader er kombineret i drooped ailerons? Flaps og ailerons
+Hvad er formålet med rudder limiter? At hindre store rorudslag ved høj hastighed
+Hvad er formålet med flaps load relief? Hindre du overspeeder flaps
+Hvad er cew feel? Mekaniskme til at give pilot feedback på hvor belastet flyet er
+Hvorfor skal ror balanceres? Undgå flutter i ror
+Hvad er wing fences? Ca 20 cm høje plader, der forhindre cross wind
+Hvordan er trykket i en vortex? Det er lavt
+Hvad er en vortilon? En lille metalplade, der laver en liftskabende vortex ved høj AoA
+Hvad er saw tooth design? En takket vinge, der laver en vortex. Mere robust end vortex generator
+Hvad gør en stall strip? Laver mindre næseradius ved roden af vingen, for at undgå tip stall
+Hvad er en stall vane? En "vejrhane"
+Hvad er en stall flapper type? En metal plade der trykkes op, hvis stagnationspunktet kommer for lavt
+Hvad siger arealreglen? Tværsnitsarealet på flyet skal ændre sig mindst muligt ad gangen

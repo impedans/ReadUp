@@ -1,0 +1,131 @@
+Hvad er anhedrale vinger? Vingespidser peger nedad
+Er anhedrale eller dihedrale vinger mest stabile? Dihedrale
+Hvilken akse løber fuselage stations langs? X-aksen
+Hvilken akse løber buttocklines langs? Y-aksen
+Hvilken akse løber waterlines langs? Z-aksen
+Hvad er safe life? En længde tid en del er "garanteret" at fungere
+Hvad er fail safe? Redundans af et system hvis noget går i stykker
+Hvad er anodisering? Elektrokemisk process til at styrke et materiale
+Hvad er scalloped skin? Skin, der er nittet fast med bølget kant
+Hvad hedder en lige fordeling af tryk over en cylinders overflade? Hoop stress
+Hvad er en longeron? En langsgående bjælke.
+Hvad er et oleo ben? En støddæmper med N2 og olie
+Hvad er primær struktur? Belastningsoptagende struktur
+Hvad er sekundær struktur? Aerodynamisk forbedrende struktur
+Hvad er tertiær struktur? Alt andet end primær og sekundær struktur
+Hvad er monocouqe design? Skin optager belastninger
+Hvad er semi-monocoque design? Skin og indre struktur optager belastninger
+Hvad er truss design? Kun indre struktur tager belastninger
+Hvad styrer pitch? Elevator
+Hvad styrer yaw? Rudder
+Hvad styrer roll? Aelerons
+Hvad er et lap splice? Lille overlap mellem to stykker metal
+Hvad er butt joint? To stykker skin ligger lige op ad hinanden uden overlap
+Hvad er fail safe? Der er indsat flere komponenter/strukturdele således at går 1 i stykker, så vil flyet stadigvæk kunne opererer normalt.
+Hvad er safe life? Komponenterne/strukturen er tidsbestemt således at de bliver udskiftet inden det går i stykker.
+Hvor er Main gear i forhold til Center of Gravity(CG)? Lige bag CG.
+Hvad er monocoque design? Hvor skinnet er den bærende struktur (selvbærende).
+Hvad er semi-monocoque? Hvor skinnet er en del af den bærende struktur (medbærende).
+Hvordan beskytter man sig mod farerne ved lynnedslag i flyet? Lightning strips, bondings, static wicks. 
+Hvad er Lightning Diverter strips? Et ioniseret metalspor der leder lynet fra Radomes til metalstruktur, da radomes er af composit(kan ikke lede strøm uden at gå i stykker).
+Hvad er Faraday Cage på et fly? Fuselage og struktur er bondet sammen(Potentialeudlignet) og fungerer som faraday cage hvor lynet bevæger sig på ydersiden.
+Hvad er komposit? Lim (Resin) og fiber blandet sammen.
+Hvad er fordelene ved komposit ift. metal? Bl.a. korrossionsestandigt, lettere og vibrationsdæmpende.
+Hvad er fuselage stations? Vertikale flader som ligger vinkelret med roll-aksen (x-aksen).   
+Hvad er Water lines? Horizontal flader som ligger vinkelret med yaw-aksen (z-aksen). 
+Hvad er Buttock lines? Vertikale flader som ligger vinkelret med pitch-aksen(y-aksen) Fortsætter ud i wingen og kaldes så Wing-stations. 
+Hvad er truss design? Gitterkonstruktion
+Hvordan forstærker man strukturen ved store cutouts, f.eks. ved main landing gear doors? Vha. keelbeams, longeronger og bulkheads.
+Hvad er keelbeams? Kræftig langsgående bjælke, typisk i bunden af fuselagen.
+Hvad er longeronger? Langsgående stænger som ligger hele vejen rundt i fuselagen. 
+Hvad er bulkheads? En kraftig pladedel (Ring eller brændskot) i fuselagen som bruges til ekstra styrke i det område den sidder i. 
+Hvad er primær struktur? Den del af strukturen som optager kræfter (Holder flyveren sammen).
+Hvad er sekundær struktur? Den del af strukturen som former flyveren areodynamisk. Optager ikke kræfter.
+Hvad er tertiær struktur? Struktur som ikke er primær og sekundær struktur. F.eks. en krog til at holde en lem osv. 
+Hvad er LLF (Limit Load Factor)? Den grænse (G-påvirkning) hvorover flyets struktur må begynde at blive deformeret, men ikke må gå i stykker. 
+Hvad er ULF (Ultimate Load Factor)? Den grænse (G-påvirkning) hvorover flyets struktur begynder at gå i stykker. 
+Hvad er stagger på et bi-plan? Det er hvor vingerne er forskudt ift. hinanden. 
+Hvad er bi-plan? 2 vinger over hinanden.
+Hvad er corrugated metal? Ligesom bølgepap
+Hvad er buckled skin? Når skinnet er "skubbet" sammen og laver "folder", kan forkomme på undersiden af vingen. 
+Hvad er anhedral? Vingerne bøjer nedad (som et A set forfra eller bagfra) 
+Hvad er dihedral? Vingerne peger opad
+Hvad er fuselage? Flykroppen
+Hvad er empenage? Hale-partiet 
+Hvad er wing bending relief? Mindske vingens bøjning opad skabt af lift, ved at placere vægt i/under vingen. F.eks. fuel og motorer. 
+Hvilke forholdsregler skal man tage inden man vasker et fly? Den skal afdækkes jævnfør AMM.
+Hvad er hoop stress? De udadgående trykkræfter i fuselagen vil skabe tension på begge sidder af skinnet, også kaldet dobbelt tension.  
+Hvordan er en conventional tail opbygget? Vertikal(lodret) stabilizer og rudder, i bunden sidder horizontal(vandret) stabilizer og elevator.
+Hvordan er en T-tail opbygget? Vertikal(lodret) stabilizer og rudder, i toppen sidder horizontal(vandret) stabilizer og elevator. (Ligner et T bagfra)
+Hvordan er en V-tail opbygget? Rudder og elevator er bygget sammen og ligner et V set bagfra.
+Hvad er tension? Kræfter som trækker i et materiale.
+Hvad er compression? Kræfter som presser et materiale sammen.
+Hvad er shear? Kræfter som agerer radialt på et materiale, og vil lave en sakse-effekt. 
+Hvad er torsion? Kræfter som vrider i et materiale.
+Hvad er bending? Hvor et materiale bøjes. Der skabes træk (Tension) på den ene side og tryk (compression) på den anden side. 
+Hvad betyder cantilever? Vingen er ikke understøttet.
+Hvad betyder non-cantilever? Vingen er understøttet.
+Hvad skal man som designer overveje, når man skal lave drænhuler i fly? At drænhullet vil forringe strukturens styrke i det område hvor der laves hul, hvis der ikke kompenseres vha. ekstra forstærkninger. 
+Hvad er formålet med Flame Arrestors? Hæmme flammers udbredelse.
+Hvad er mulige årsager til at udføre alignment check? Hård landing og overbelastning ved flyvning.
+Hvad er 3 vigtige ting ifm. vask af et fly? Brug rigtig sæbe, personlig beskyttelse og afdækning.
+Hvad er Alodining? Kemisk behandling, hvor alluminiumsdele børstes eller dyppes i et bad med beskyttende Zink-Kromat konverserende coating. (Konverserer/omdanner oxid-laget på allu til Krom/allu oxid-lag.  
+Hvad er fordelene ved Alodining? Øget korrosionsbeskyttelse, binder maling, giver elektrisk ledende film til bonding og grounding.
+Hvad er formålet med varme vinduer? Holder dem smidige og dugfri. 
+Hvad er en plug-door? En dør som er større end hullet i flykroppen. Benyttes i trykkabiner, så døren ikke kan trykkes ud. 
+Hvad er Torsion? Materiale udsat for vridning.
+Hvad er Young's modul? Forholdet mellem stress og strain (belastning og udvidelse). 
+Hvad er Yeilds point? Punktet hvor materialet ikke længere vil vende tilbage til oprindelig tilstand. 
+Hvad er fordelene ved truss design? Billig, let og nem i fremstilling. 
+Hvad er Monocoque? Struktur hvor skinnet er selvbærende.
+Hvad er Semi-monocoque? Struktur med stringers, frames og longeronger og skinnet er selvbærende. 
+Hvad er stall-speed ved 0 G-påvirkning? 0 knob.
+Iht. CS 25. Hvad er Max positive og negative Limit Load Factor (Flaps retracted)? 2,5 G positive og 1 G negative.
+Iht. CS 25. Hvad er Max positive og negative Ultimate Load Factor (Flaps retracted)? 3,75 G positive og 1,5 G negative. 
+Hvad er Fail-safe? Kontruktion der består af mange dele og løbende skiftes ud, hvis der opstår skader. 
+Hvad er Safe-life? Tidsbegrænset struktur der består af få dele.
+Hvad er Creep? Deformation over tid.
+Hvad er isolering brugt til? Beskyttelse mod kulde, lyd og kondens.
+Hvad er drænmulighederne når der er tryk i kabinen? Dræn lukker.
+Hvad er Airscoop? En åbning der sikre tilstrækkelig ventilation. (Bruges når man får det dårligt i T-17 og skal have frisk luft :-D) 
+Hvor er der mulige skader efter lynnedslag? Elektriske systemer, struktur, sammensvejsede lejer, piloter bliver blændet. 
+Hvad er Electro-static dischargeres? Leder statisk elektricitet væk fra flyet. 
+Hvad er Lightning diverter strips? Leder lynet hen til flyets struktur. (Ioniseret metalspor som leder lynet fra radome til metalstruktur, da radomes er af composit og derfor dårlige til at lede strøm).
+Hvad er Stringers? Små langsgående strukturprofiler der styrker skinnet.  
+Hvad er Longerons? Store langsgående bjælker. 
+Hvad er Frames? Formgivende rammer. 
+Hvad er Cantilever? Selvbærende vinge.
+Hvad er Non-cantilever? Vinge med struts eller wire der støtter strukturen. 
+Hvad er Main wing spar? Vingens hovedbjælke der optager alle typer kræfter. 
+Hvad er fodele og ulemper ved Wing-wire/drag wire? Spare vægt i strukturen, men giver luftmodstand. 
+Hvad er wing torsion box? En vingestruktur bestående af bjælker, ribber, skind og stringers. 
+Hvad er fordele og ulemper ved en T-hale? Bedre aerodynamik, men strukturen skal være stærkere. 
+Hvilke materialer bruges til rorflader, og hvorfor? Alu, carbon, glasfiber, titanium, stål, honeycomb, kevlar, boron. Rorflader skal være stærke, stive, lette og slidstærke. 
+Hvad er False spar? En ekstra bjælke der sættes ind hvor vingen kræver ekstra styrke.
+Hvad er formålet med wing-box? Skal optage alle kræfter der påvirker vingen. Kan samtidig være brændstoftank. 
+Hvad er primary structures? De største dele af bærende struktur eks. spar, longeron.
+Hvad er secondary structures? Formgivende struktur der optager interne og aerodynamiske kræfter. 
+Hvad er tertiary structures? Paneler, polstring, møblering, håndtag. 
+Hvad strammer man lærred op med? Dope.
+Hvad er Datum? En referencelinje.
+Hvad er buttock lines? Vertikale linjer igennem flykroppen. 
+Hvad er Water lines? Horisontale linjer igennem flykroppen.
+Hvad er meningen med zone-opdeling? En hjælp til at lokalisere komponenter. 
+Hvad er LLF? Limit Load Factor. Belastning over denne grænse kan give deformationer. 
+Hvad er ULF? Ultimate Load Factor. Belastning over denne grænse kan føre til total haveri. 
+Hvad er Corrugated metal? Buler eller rynker der gør skindet mere stift så det kan modstå compression. 
+Hvad er Buckled skin? Buler eller rynker pga. overbelastning (compression). 
+Hvad er Alclad? Tyndt lag af ren alu der er valset på alu-plader (Korrosionsbeskyttelse). 
+Hvad er Composit? Blanding af fiver og lim. 
+Hvad er Glare? Blanding af composit og alu-plade (I lag ligesom sandwich).
+Hvad er fordele og ulemper ved integraltanke? Udnytter alt plads, men bliver utæt med tiden. 
+Hvad er en gummi-cell tank? En gummi tank der er ophængt i mange små kroge. 
+Hvad er formålet med fireseal/brandskot? Forhindre en motorbrand i at brede sig til resten af flyet. 
+Hvad er fatique load meter? Et instrument der opsamler info om hvor meget flyet bliver belastet. 
+HVad er fordelen ved velvet pressure bulkhead/trykdome? Det er stærkere, fordi det er udsat for hoop-stress.
+Hvad er MTOW? Maximum TakeOff Weight.
+Hvad er Wing bending relief? Placering af motorer og fuel på og i vingerne, for at spare strukturvægt. 
+Hvad er Fire bulkhead lavet af? Rustfrit stål, titanium.
+Hvad er Compression? En belastning hvor materialet presses sammen/komprimeres. 
+Hvad er Tension? En belastning hvor materialet strækkes.
+Hvad er Shear? Materialet er udsat for klippe belastning. 

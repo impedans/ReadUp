@@ -1,0 +1,927 @@
+Hvad er en flaperon? En kombineret aleron og flaps.
+Hvilken akse er yaw-aksen? Det er z-aksen.
+Hvilken akse er roll-aksen? Det er x-aksen.
+Hvilken akse er pitch? Det er y-aksen.
+Hvilket luftindtag anvendes i supersonisk flyvning? Konvergent-divergent.
+Hvad er en ruddervator? Kombineret rudder og elevator.
+Hvad er en vortex dissipator? En luftstråle af bleed air til at forhindre vortex ind i motoren.
+Hvad er de primære rorflader? Elevator, rudder, aleron og roll spoiler
+Hvad er sekundære rorflader? Speed brake, lift dumpers, flaps, slats og tabs.
+Hvad er rorfladers aerodynamiske egenskab? De ændre lift ved at ændre camber og AoA
+Hvad bruges et offset hinge til? At bevæge rorne
+Hvad bruges horn balancing til? At bevæge rorne
+Hvad bruges tab balancing til? At bevæge rorne
+Hvad er en control tab? En lille tab, der bevæger resten af roret fx trim
+Hvad er en geared tab? En tab der bevæges af resten af roret
+Hvilke flader er kombineret i en all moving tail? Horisontal stabilizer og elevator
+Hvad er en taileron? Aileron, horisontal stabiliser og elevator kombineret
+Hvad er en stabilator? En kombineret stabilisor og elevator. Samme som en all moving tail
+Hvad er en all flying tail? En kombineret horsiontal stabilisor og elevator
+Hvad vil det sige at flyve koordineret? Normalkraften peger nedad mod gulvet i flyet
+Hvad er formålet med lift inducing devices? Forøg lift så du kan lande og lette på kortere baner, og med lavere hastighed
+Hvad er en slottet fowler flap? På trailing edge er flappen opdelt i flere dele. 
+Hvad er en slat? En leading edge auxillary airfoil
+Hvilke primær rorflader er kombineret i en V-tail? Rudder og elevator
+Hvilke rorflader er kombineret i drooped ailerons? Flaps og ailerons
+Hvad er formålet med rudder limiter? At hindre store rorudslag ved høj hastighed
+Hvad er formålet med flaps load relief? Hindre du overspeeder flaps
+Hvad er cew feel? Mekaniskme til at give pilot feedback på hvor belastet flyet er
+Hvorfor skal ror balanceres? Undgå flutter i ror
+Hvad er wing fences? Ca 20 cm høje plader, der forhindre cross wind
+Hvordan er trykket i en vortex? Det er lavt
+Hvad er en vortilon? En lille metalplade, der laver en liftskabende vortex ved høj AoA
+Hvad er saw tooth design? En takket vinge, der laver en vortex. Mere robust end vortex generator
+Hvad gør en stall strip? Laver mindre næseradius ved roden af vingen, for at undgå tip stall
+Hvad er en stall vane? En "vejrhane"
+Hvad er en stall flapper type? En metal plade der trykkes op, hvis stagnationspunktet kommer for lavt
+Hvad siger arealreglen? Tværsnitsarealet på flyet skal ændre sig mindst muligt ad gangen
+Hvad er anhedrale vinger? Vingespidser peger nedad
+Er anhedrale eller dihedrale vinger mest stabile? Dihedrale
+Hvilken akse løber fuselage stations langs? X-aksen
+Hvilken akse løber buttocklines langs? Y-aksen
+Hvilken akse løber waterlines langs? Z-aksen
+Hvad er safe life? En længde tid en del er "garanteret" at fungere
+Hvad er fail safe? Redundans af et system hvis noget går i stykker
+Hvad er anodisering? Elektrokemisk process til at styrke et materiale
+Hvad er scalloped skin? Skin, der er nittet fast med bølget kant
+Hvad hedder en lige fordeling af tryk over en cylinders overflade? Hoop stress
+Hvad er en longeron? En langsgående bjælke.
+Hvad er et oleo ben? En støddæmper med N2 og olie
+Hvad er primær struktur? Belastningsoptagende struktur
+Hvad er sekundær struktur? Aerodynamisk forbedrende struktur
+Hvad er tertiær struktur? Alt andet end primær og sekundær struktur
+Hvad er monocouqe design? Skin optager belastninger
+Hvad er semi-monocoque design? Skin og indre struktur optager belastninger
+Hvad er truss design? Kun indre struktur tager belastninger
+Hvad styrer pitch? Elevator
+Hvad styrer yaw? Rudder
+Hvad styrer roll? Aelerons
+Hvad er et lap splice? Lille overlap mellem to stykker metal
+Hvad er butt joint? To stykker skin ligger lige op ad hinanden uden overlap
+En blå farve i et cockpit angiver? At noget er ved at ske(Fx landing gear).
+En gul farve i cockpit angiver? Caution. 
+En rød farve i cockpit angiver? Warning. Tag handling for at stoppe faren.
+Under flyvning må instrumenter normalt udsættes for?9G.
+Ved en A fejl på et kompas, er der tale om? En mekanisk fejl.
+Ved en B fejl på et kompas, er der tale om? En magnetisk fejl - øst/vest fejlvisning.
+Ved en C fejl på et kompas, er der tale om? En tværgående magnetiske fejl - nord/syd fejlvisning.
+Hvad er formålet med en Cockpit Voice Recorder (CVR)? At optage lyd fra cockpit området
+Hvor får en Cockpit Voice Recorder (CVR) sine data fra? Fra en mikrofon placeret centralt i cockpittet
+Hvad er formålet med en Flight Data Recorder (FDR)? At oplagre data vedrørende flyvning, til brug under et opklaringsarbejde
+Hvad er en ULD/B og hvornår begynder den at sende? Underwater Locator Beacon - når den rammer vand
+Hvilke fordele er der ved at anvende Electronic Flight Instrument System (EFIS)? Flere informationer kan præsenteres på en logisk måde
+Hvilken funktion har en Symbol Generator (SG) i et Electronic Flight Instrument System (EFIS)? Den fremstiller symboler/billeder der vises på EFIS
+Hvilke typiske instrumenter kan en turbinemotors ydelse bestemmes ud fra? Omdrejning, Tryk, Torque
+Hvilke typer af turbinemotorer anvender et torque meter til at bestemme deres ydelse? Turboprop og Turboshaft
+Hvorfor holder man øje med en turbinemotors vibrationer? Det kan på forhånd sige om der vil komme problemer med motoren.
+Hvad består et AC-Tachometer af? En indikator og en generator
+Hvad anvendes et synkronoskop til? Til at finjustere motoromdrejninger på fly med flere motorer
+Hvad er forskellen mellem en aneroid og en membrandåse? Trykket tilføres membrandåsens indre
+Hvordan virker et bourdonrør? Et bøjet ovalt rør der under tryk prøver at rette sig ud
+Hvad angiver et fuel flow system? Det øjeblikkelige brændstofforbrug af flyets moterer
+Hvordan ændrer modstanden sig med temperaturen i et modstandselektrisk temperaturmålesystem? Den bliver højere
+Hvad måler indikatoren i et simpelt modstandselektrisk temperaturmålesystem? Strøm
+Hvad anvende Autosyn til? Overførelse af mekanisk bevægelse via elektrisk vej
+Hvilken spændingstype tilføres Desyn? Jævnstrøm
+Hvilken fordel har et Gyrosyn Kompas System frem for en simpel kursgyro? Der er ingen drift i dette system
+Hvilken opgave har en Flux valve? Sørge for at gyroen kan sammeligne sin stilling med retningen til magnetisk nord
+Hvor kan det ses om gyroen står korrekt? Slaving Indicator
+Hvad kaldes de to systemer som viser information fra gyrosyn kompas systemet? Horizontal Situation Indicator (HSI) og Radio Magnetic Indicator (RMI)
+Hvad er Stall Warning? Hvis flyet når en kritisk indfaldsvinkel vil Stall Warning alarmere piloten
+Hvad måler et AOA system? Flyets indfaldsvinkel
+Langs hvilken akse måler accelerometeret i et fly og hvad kaldes denne måler? z-aksen, det kaldes en G-måler
+Hvad viser et accelerometer under normal vandret flyvning? 1G
+Hvad er formålet med et Fatique Load Meter? At måle om flyets accelerations grænseværdier overskrides 
+Hvad er en Gyro? Et roterende legeme der opretholder en konstant orientering
+Hvad er en rategyro? En gyro med én gimbal ring
+Til hvilke instrumenter kan en rategyro bruges? Turn and bank indicator
+Hvad er forskellen mellem en drejnings- og krængningsviser og en turn coordinator? I en turn coordinator sidder gyroen vinklet med ca 35 grader for at give en mere præcis måling
+Hvad anvendes gyrohorisonten til? Den viser hvordan du ligger i luften
+Hvilken gyro anvendes i en gyrohorisont? Vertikal gyro
+Hvad anvendes en kursgyro til? Til at angive flyets kurs
+Hvilken gyro anvendes i en kursgyro? Directional gyro
+Hvordan frembringes "suction" på en pnematisk drevet gyro? Via små huller i gyroen, hvor forbipasserende luft kan skabe undertryk/suction
+Hvorfor er pitotrøret opvarmet? Så der ikke kan dannes is og tillukke pitothullet
+Hvorfor er der ofte statisk indtag på begge sider af flyet? Så flyet stadig kan lave præcise målinger hvis flyet drejer
+Hvilket tryk tilføres en trykhøjdemåler? Statisk
+Hvad angiver barometerskalaen på en trykhøjdemåler? Referencetrykket
+Hvad viser et variometer? Med hvilen hastighed flyet ændrer højde med
+Hviket tryk tilføres et variometer? Statisk
+Hvilket tryk tilføres en fartmåler? Dynamisk
+Hvad viser et machmeter? Flyets hastighed i forhold til lydens
+Hvilke informationer tilføres en Air Data Computer? AOA, temperatur, total tryk og statisk tryk
+Hvordan opnåes total air temperature? Ved at bringe luften til total stilstand og derefter måle det
+Hvorfor anvendes der farveafmærkning på instrumenter? For at gøre det nemt for piloten at overskue et systems tilstand
+Hvorfor anvendes der farvede lamper på et instrumentpanel? Det øger sikkerheden for at en fejl i flyets system opdages
+Når frekvensen bliver højere vil bølgelængden blive? Kortere
+Hvad gør osciliator delen i en AM radio sender? Den generer RF frekvensen
+Hvad gør en demodulator i en AM radio modtager? Den pakker signalet ud og generer audio signal, video signal eller data signal
+Hvilken opgave har en static discharger i forhold til radioudstyret i et fly? Den skal sørger for at der ikke sker skade på udstyret
+Hvad anvendes et audio control panel til? Til at vælge hvilke kanaler/frekvenser der vil modtages og sendes fra
+Hvad er formålet med et PA system? At give information til passagerne
+Hvad er forskellen på barometrisk og teknisk atmosfære? Barometrisk er standarder som egentlig er målt, hvor tekniske er til udregninger.
+Hvor bruges thermoelektriske temperatur målinger? Det bruges til at måle høje temperaturer ved turbinen og udstødningen
+Hvad er et synkronoskop? Det er et tilstandsinstrument, der bruges til at få moterer til at køre ens for at undgå vibrationer-
+Hvad er et ydelsesinstrument? Et instrument der måler ydelsen af en komponent, f.eks. EPR og N_1
+Hvad anvendes en kursgyro til og hvilken type gyro er det? Viser flyets kur. Det er en directional gyro der er monteret i to gimballringe og har frihed i tre akser.
+I hvilket temp. område anvendes thermoelektriske temperaturmålere og hvad måler den? I temp. området fra 400-1400 grader celcius, og den måler TIT/ITT/EGT.
+Til hvilke tryk anvendes en aneroid trykmåler? Det bruges til måling af små tryk.
+Hvad anvendes en flowmåler til? Til at måle flowet på en given væske eller luft.
+Hvordan virker en mekanisk temperaturmåler? Det virker ved at en bimetalfjeder udvider sig og trækker sig sammen.
+Hvilke gyrotyper findes der? En fri gyro (to gimballringe og frihed i tre akser), en bunden gyro og en rate gyro (en gimballring og frihed i to akser).
+Hvad er deviation indenfor kompasser? Forstyrrelser i kompasset pba. dets eget magnetisme.
+Hvad er en rate gyro, og hvor bruges den? Det er en gyro hængt op i en gimballring med frihed om to akser, bruges f.eks. i en turncoordinator.
+Hvad viser drejningsviseren? Den viser drejningsretninegn, samt vinkelhastigheden af kursændringen.
+Hvad viser krængningsviseren? Den viser virkningen omkring flyets yaw-akse.
+Hvad er en gyrohorisont? Det et en instrument der laver en kunstig horizont. Det er en vertical gyro der er ophængt i to gimballringe med frihed i tre akser.
+Hvad kaldes de instrumenter der modtager signal fra gyro kompas systemet? De hedder Radio magnetic indication (RMI) og Horizontal situation indicator (HSI).
+Hvad er de tre egenskaber der gør gyros stiv? Højre omdrejninger, stor masser og massens fordeling.
+Hvad består et AC-tachometersystemer af og hvor bruges det? Det er en omdrejningstæller der består af en generator (der sidder på komponenten) og en indicator. Den bruges primært på større fly.
+Hvad står GPWS for? Ground Proximity Warning System
+Hvad står 'E'-et i EGPWS for? Enhanced
+Hvad står DME for? Distance Measurement Equipment
+Hvad hedder den afstand en DME måler? Slant distance
+Hvordan virker en radar grundlæggende? Elektromagnetiske bøler sendes ud og de reflekteres af objekter i luften
+Hvad er sikkerhedsafstanden foran en vejrradar, der kører mens flyet står på jorden? 200-300 fod lige foran flyet, og 10-15 fod til siderne i en 180 graders vinkel.
+Hvad står ILS for? Instrumental Landing System
+Hvad anvendes ILS til? Instrumental approach af lufthavn
+Hvor mange kategorier findes ILS i? 3
+Hvad er en kategori 1 ILS? Et ILS system med decision altitude i 200 fod
+Hvad er en kategori 2 ILS? Et ILS system med decision height i 100 fod
+Hvad er en kategori 3 ILS? Et ILS system, der kræver sigt på min 75 meter
+Hvad anvendes Marker Beacon til? Giver piloten en indikation af at han kommer tættere på lufthavenen, samt et punkt han skal kontrollere sin højde
+Hvad anvendes et Radio Altimeter System til? Et præcis højdemåling via radar
+Hvad anvednes et Automatic Direction Finder (ADF) system til? Anflyvning mod lufthavn
+Hvilket frekvensområde arbejder et ADF system i? 190-1750 kHz
+På hvilket instrument kan information fra ADF vises? RMI
+Hvilket frekvensområde arbejder VOR i? 108-117.95 MHz
+Hvad kaldes de stedlinjer, der udstråles fra VOR stationer? Radialer
+Hvor mange radialer udstråler en VOR station? 360
+På hvilket instrument kan informationen fra VOR stationer vises? RMI
+Hvad står ACARS for? Aircraft Communication And Addressing Radio System
+Hvad står OOOI for? Out Off On In
+Hvad kommunikere ACARS igennem? VHF og SATCOM
+Hvad hedder de tre hovedkomponenter i SATCOM? Satellit, Aircraft Earth Station og Ground Earth Station
+Hvad er fordelen ved en High Gain Antenna i SATCOM? Man får et retningsbestemt signal med høj båndbredde
+Hvilken frekvens anvender en civil ELT? 121.5 MHz eller 406 MHz
+Hvilken frekvens anvender en militær ELT? 243 MHz eller 406 MHz
+Hvad anvendes VHF kommunikation til? Line of sight kommunikation
+Hvad er frekvensområder of VHF stråler? 118-136.975 MHz
+Hvad anvendes HF signaler primært til? Lang distance kommunikation via jordstationer og refleksion i ionosfæren
+Hvad gør en antenne coupler? Fjerner nødvendigheden af mange antenner
+Når frekvens bliver højere bliver bølgelængden? Lavere
+En bølge med stor bølgelængde har en frekvens, der er relativt? Lav
+Hvad gør en oscillator? Føder en bærebølge til AM radio
+Hvad står AM for? Amplitude Modulation
+Hvad står FM for? Frekvens Modulation
+Er informationen indkodet i amplitude eller frekvens i en AM radio? Amplitude
+Er informationen indkodet i amplitude eller frekvens i en FM radio? Frekvens
+Hvad er opgaven for en statick wick, i forhold til radioudstyr for fly? Undgå støj ved at aflade statisk elektricitet
+Hvad anvendes et Audio Control Panel til? Styre hvilke systemer, der lyttes og sendes til og fra
+Hvad er formålet med et PA system? Hurtight og effektivt at kunne informere alle passagere
+Hvad betyder direct sensing? Sensoren og viseren er mekanisk forbundet
+Hvad betyder remote sensing? Viseren fungere pbga fortolkning af et sensor signal
+Hvorfra nummereres motorer? Fra venstre mod højre
+Hvad er trykket på en ICAO standard dag? 1013 hPa
+Hvad er forkortelsen for lufttrykket over landingsbanen? QFE
+Hvad er forkortelsen for lufttrykket over havoverfladen? QNH
+Hvad er forkortelsen for et lufttryk på 1013 hPa? QNE
+Hvad bruges QNE trykket til? Bruges til at indele luftrummet i flight levels
+Hvad bruger interphone systemet til? Kommunikation internt mellem crewet
+Hvad viser 'bolden' i en drejnings- og krængningsviser? Retningen på normalkraften i flyet
+Hvad er gør en stick shaker? Ryster sticken for at fortælle piloten han er tæt på stall
+Hvad gør en stick pusher? Presser sticken frem for at undgå stall. Overrider piloten
+Hvad måler en G måler forholdet mellem? Lift og vægt
+Hvad betyder det at en modstandselektrisk er PTC? Den har en Positiv Temperatur Koefficint og modstanden stiger med temperaturen
+Hvad betyder det at en modstandselektrisk er NTC? Den har en Negativ Temperatur Koefficint og modstanden falder med stigende temperaturen
+Hvad er en transmission line? En ledning til transport af elektriske signaler
+Op til hvilken frekvens bruges coax kabler? 3 GHz
+Hvad er det moderne lovkrav til afstand mellem kanaler på VHF? 8.33 kHz
+Hvad er en RMP? Radio Management Panel
+Hvad kan indstilles på en RMP? Bærefrekvens til VHF transceiver
+Hvad betyder 'self call'? Der gives et ping hvis nogen vil tale med dig
+Hvorfor anvendes 'self call'? For at piloten ikke behøver lytte til HF støj hele tiden
+I OOOI kan Out fx dække over? Når en dør lukkes
+I OOOI kan Off fx dække over? Når der ikke længere er weight on wheels
+I OOOI kan On fx dække over? Når der er weight on wheels
+I OOOI kan In fx dække over? Når døren til kabinen åbnes
+Hvad sendes automatisk over ACARS? Loadsheet report og crew+PAX liste
+Hvad er en heading? En retning der flyves i
+Hvad er en magnetic heading? En retning relativ til magnetisk jord
+Hvad er et flys track? Flyets bane over jordens overflade
+Hvad skal en loop antenna kombineres med for at fjerne tvetydighed om retning? En rundstrålende antenne
+Hvad er en ADF? En automatic Direction Finder
+Hvad står VOR for? VHF Omnidirectional Range
+Hvad er TACAN? En militær ækvivaltens til VOR
+Hvad er en glideslope? Et track ned til banen.
+Hvad fungere ILS igennem? VOR
+Hvad kan GPWS opdage fx? Controlled Flight Into Terrain (CFIT)
+Hvad står WXR for? Weather Radar
+Hvad er en trandponder? En box der modtager et ping fra jorden og svarer med en squawk kode
+Hvad er never use koderne på transpondere? 7500, 7600 og 7700
+Hvad bruges transponderkode 7500 til? Angive high jacking
+Hvad bruges transponderkode 7600 til? Angive radiofejl
+Hvad bruges transponderkode 7700 til? Angive emergency
+Hvad er det største tal, der kan stå på en transponder? 7777
+Hvad bruges TCAS til? At undgå kollisioner i luften
+Hvad for et input bruger TCAS systemet? Højde, fart, position og flyveretning
+Hvad står TCAS for? Traffic alert & Collision Avoidance System
+Hvad står GPS for? Global Positioning System
+Hvad tager FANS sig af? Kommunikation, navigation og surveilance 
+Hvad udsender en transponder i mode C? Barometrisk højde på flyet
+Hvad udsender en transponder i mode A? Identifikationskode på flyet i form af 4 cifret tal
+Hvad udsender en transponder i mode S? TCAS information
+Hvor mange modes kan en civil transponder sættes i? 3
+Hvad hedder de modes en civil transponder kan sættes i? C, A og S
+Hvilke typer komponeneter/følere anvendes på en ISS platform? Gyroer og accelerometre
+Hvad står ISS for? Inertial Stabilized System
+Hvad fås af output fra AHRS? Pitch/roll attitude, magnetic heading, vertical speed og ground speed
+Hvad står AHRS for?Attitude Heading Refference System
+Hvad kan en IRS ud over hvad en AHRS kan? Beregne position relativ til en kendt start position
+Hvad står IRS for? Inertial Reffernece System
+Hvad sker der i en IRS under "Allign Phase"? Den kallibreres mens flyet står stille
+Hvilke to dele kan en FMC indeles i? Navigation computer og performance computer
+Hvilken del af FMC er VNAV en del af? Performance computeren
+Hvilken del af FMC er LNAV en del af? Navigation computeren
+Hvad står FMC for? Flight Management Computer
+Hvor anvendes DC generatorer? I små fly under 60 mennesker
+Hvilken type belastning er flaps på et strømsystem? Intermittent load
+Hvilken type belastning er kabinelys? Continuous load
+Hvad definerer et vitalt system? Skal køre for at flyet kan flyve
+Hvad definerer et essentielt system? Kritisk og kan påvirke sikkerhed i stor grad
+Hvad definerer et non-essential system? Det er 'nice to have'. Fx lys i kabinen
+Hvor meget af generatorens kapacitet må der konstant trækkes? 80 %
+Hvad er en busbar? En strømskinne til føring af strøm
+Hvordan fordeles belastningen på en parallel bubar? Ligeligt over alle flyets generatorer
+Hvor mange generatorer kar forsyne den samme bus, på samme tid, i et split bus system? Kun 1
+Hvad er en current transformer? En sensor af strømmen i en ledning
+Hvad er en sikring designet til at reagere på? For høj strøm
+Hvad er en circuit breaker? En mekanisk switch til at koble et system fra og til
+Hvad er en primær battericelle? Et engangs batteri
+Hvad er en sekundær battericelle? Et genopladeligt batteri
+Hvordan testet en Generator Control Unit(GCU)? Med en BITE-test
+Hvilken enhed laver differential protection? Generator Control Unit
+Hvilken type batteri er lithium-ion? Et sekundær batteri
+Hvilken type batteri er et bly batteri? Det er et sekundær batteri
+Hvilken type spænding leverer et batteri? DC
+Hvilken type batteri er et lithium-cadmium? Sekundær batteri
+Hvilken type celle er oftest billigst? Primær celler
+Hvilken type celler er generelt mindst relativ til kapacitet? Primær celler
+Hvilken type celle aflades typisk hurtigst? Sekundærceller
+Hvad begrænser hvor stor strøm et batteri kan levere? Overfladearealet på cellerne.
+Hvilken type generator kan bruges som starter? DC-generator
+Hvad er som regel max output på en DC generator? 300 A
+Hvad betyder "self excited"? Feltspolen magnetiseres af generatoren selv
+Hvad betyder "seperatly excited? Feltspolen magnetiseres af et ekstern system
+Hvad betyder det at en generator er en PMG? Permanent Magnet Generator er en generator, der here tiden er magnetiseret
+Hvad slides mest på en DC-generator? Brushes and commutators
+Hvad er outputet på en moderne AC-generator i fly? 3 faset 400 hz 115V/200V AC
+Hvad er det vi regulere på en AC-generator? Frekvens og spænding
+Hvilken type regulering er der på en AC-generator der skal køres med konstant hastighed? Mekanisk regulering
+Hvorfor bruges lithium-ion batterier fremfor nickel cadmium? Lette, ingen memory effekt, stor kapacitet, hurtig at oplade og høj effekt.
+Hvilken fare er der ved nickel cadmium batterier hvis de mister væske? De kan brænde
+Hvilket batteri har 'memory effect'? Nickel cadmium
+Hvilken type regulering er der på en AC-generator, der kan køre med variabel hastighed? AC ensrettes til DC, der inverteres til AC
+Hvad indeholder en integrated drive generator? Regulering og generator
+Må hastigheden på generatorinputtet variere i et constant speed system? Nej
+Må hastigheden på generatorinputtet variere i et variable speed system? Ja
+Hvad betyder 'field excitation'? Felt magnetisering
+Hvorfor anvendes en Constant Speed Drive(CSD)? Holde frekvensen på outputet til 400 Hz
+Hvorfra trækkes strømmen i en brushless AC-generator? Statoren
+Hvilken type spænding sendes ind i en transformator? AC (Vekselstrøm)
+Hvad bestemmer en motors output? Omdrejningshastighed og feltstyrke
+Hvordan reguleres feltstyrken med en vibrating contact regulator? Ved at hurtigt tænde og slukke for strømmen gennem felt spolen med forskellige intervaller
+Hvad reguleres på AC-generatoren for at holde konstant output? Feltstyrken
+Hvad regulere en carbon pile voltage regulator? Felt styrken i generatoren
+Hvad er en solid state regulator? En elektronisk regulator
+Hvad sikre en reverse current relay? Strøm tilbage igennem generatoren
+Hvad er en exciterspole? Den spole, der generere generatorens felt
+Hvordan reagere en exciter spole i serie på varierende load? Den variere ligefremt proportionelt med loaden
+Hvordan reagere en shunt spole på varierende load? Feltstyrken er uafhængig, generator output falder
+Hvordan reagere en compund spole på varierende load? Tilpasset til load
+Hvor findes bly-batterier typisk? I gamle fly
+Hvad gør en inverter? Konverterer DC til AC
+Hvordan virker en rotary inverter? DC motor driver en AC-generator
+Hvordan virker en static inverter? Solid state løsning/Elektronisk løsning
+Hvad gør en transformer rectifier unit(TRU)? Ændre spændingen på AC-input og enretter til jævnstrøm
+Hvilken elektrisk komponent anvendes til transformation? En spole (evt med metalkerne)
+Hvilken elektrisk komponent anvendes til ensretning? En diode
+Hvor mange pins er på en DC-socket? 3 pins. Jord, positiv og negativ
+Hvor mange pins er på en AC-socket? 6 pins. 3 faesr, 1 neutral og 2 ground power interlocks
+Hvad sikre ground power interlocks? At strømmen slukkes hvis stikket falder ud
+Hvad kontroleres i phase fault detection? Rækkefølgen på faserne
+Hvor sidder en APU i de fleste fly? I halen
+Hvad kan en APU generere til flyet? Strøm, bleed air  og hydtryk
+Hvilken type motor er en APU? En turbo shaft motor
+Hvad er en Ram Air Turbine(RAT)? En emergency power generator
+Hvad betyder "rectifier"? Ensretter
+Hvad er en Circuit breaker? En afbryder og en sikring. Ikke smelte sikring
+Hvad er fordelen af slow fuses? Kan bruges ved start af motor. Smelter ikke ved spidsbelastninger
+Hvad er en quick fuses? Smelter så snart den kommer over limit.
+Hvad smelter sikringen? Strøm , ikke varme.
+Hvad er over/under excitaionen? Feltstyrken er for lav eller for høj
+Hvad er excitation? Feltstyrke
+Hvilken frekvens bruges der i fly? 400 Hz
+Hvilken spænding bruges de ri fly? 115 V
+Hvad tænkes som kontinuerligt elektroniske belastninger? Lys, radio, fuel pump etc
+Hvad tænkes som intermittent elektroniske belastninger? Landing gear, flaps, trim, etc
+Hvad ses som essential servies? Kristike, men vi falder ikke ned. 
+Hvad laver en inverter? Laver DC til AC
+Hvad laver TRU (Transformer recitifier unit)? LAver AC til DC
+Hvad er fordele ved primær batterier? Billige, lille volumen ifh til kapacitet, og aflades langsomt (lang leve tid)
+Hvilken type batterier bruger man i fly? NIckel-cadmium, Lead, og Lithuium-ion
+Hvilken type batteri er brugt på nye fly? Lithium-ion
+Hvordan kan et batteri kobles for at få større spænding? Seire
+Hvorfor bruge Lithium-ion frem for nikkel-cadmium? Ingen memory effekt, high power capacity
+Hvornår bruges DC generator? På ældre fly, op til 60 sæder, op til 300A
+Hvad er DC? Jævnstrøm
+HVad hedder kulene i en generator? Brush
+Hvad gør en converter? Sikre den ønsket frekvens, selvom der ikke er konstant omdrejning af rotoren
+Hvad er solid state voltage regulation? Regulering af spændingen på magnetfeltet, for at sikre konstant spændingsout på generator
+Hvad er forskellen på rotary inverter og static convertor? Rotary er en mekansik og static er en elektronisk konvetering fra DC til AC.
+Hvorfor kontrolere man rækkefølgen af faserne med en Face Fault detector? For at sikre at den tilkoblet motor ikke er koblet til modsat og dermed drejer modsat rundt. 
+Hvad gør man ved circuit breakers når man skal arbejde på flyet? Man trækker den og låser den med nogle klips.
+Hvad udløser sikringer og curcuit breakers? Det gør en for høj strøm.
+Hvilke typer batterier anvendes ofte i minder og ligeledes ældre fly? Blybatterier.
+Hvorfor anvender man strømtransformere? For at måle strømmen så man kan identificere korslutninger.
+Hvad er forskellen på et primary cell batteri og et secondary cell batteri? Secondary kan lades op og genbruges, primary kan kun bruges en gang.
+Hvor anvendes der oftest DC-generatorer? Mindre fly med under 60 passagerere og generelt i ældre fly.
+Hvad er forskellen på split og parallel busbar? Ved splitbusbar kan generatorer ikke kobles på samme tid, ved parallel busbar er loaden af alle generatorer delt af en synkroniseringsbus, og kan derfor startes.
+Hvad er non-essential? Det er ren service.
+Hvilke komponenter bliver slidt mest i en DC-generator? Brushes (kul) og commutator.
+Hvilke kompenenter adskiller sig i en DC-generator og AC-generator? I stedet for en commutator er der sliprings.
+Hvad er en current limitters? En stor udgave af en smeltesikring til heavy current.
+Hvordan virker en elektronisk circuet breaker? Elektronisk og den kan fjernstyres. 
+Hvad er en current transformer? Den måler strømsforskellen før og efter generatoren og virker som en sikkerhedsafbryder. 
+Hvilke fejl beskytter en Generator Control Unit mod? Over/under Excitation (Feltstyrke), Over/under Voltage, Over/under Frequency, Differential Protection, Oscillasation.
+Hvad er en BITE-test? En funktionstest af GCU'en. (Generator Control Unit).
+Hvad er Vital Services? "Skal køre" Nødvendige i nødstilsfælde, vitale flight instruments, nødbelysning, brændslukker osv. og er koblet direkte til batteriet. 
+Hvilke primære power sources findes der? AC generatorer, DC generatorer, Batterier, APU, Ground Power Unit, RAT (Ram Air Turbine)
+Hvilke celler kan genoplades? Sekundære celler.
+Hvilke celler kan ikke genoplades/genbruges? Primær celler.
+Hvordan kan et batteri kobles for at opnå større strøm? Parallelt.
+Hvad sker der hvis der er for lidt væske(elektrolyt) på et nickel-cadmium batteri? Kan gå i brand ved opladning.
+Hvad er memory degradation? Hvis et batteri ikke aflades op oplades helt, forringes dets kapacitet.
+Hvad sker der hvis der tilføres strøm til en DC generator? Så virker den som motor.
+Hvad er formålet med en Constant Speed Drive Unit? Sørge for at holde den samme frekvens ved at holde et konstant omdrejningstal på generatoren. 
+Hvad er en integrated drive generator? Generator og Constant speed drive er bygget sammen.
+Hvad er Carbon Pile voltage regulation? Det er 1 ud af 3 typer af spændingsregulatorer.
+Hvad består en Three Unit Control Panel af? Spændingsregulator, Strømregulator og Reverce current relay.
+Hvad er ulempen ved reverce current igennem en generator? Så vil den virke som motor, hvilket er skidt hvis den ikke er dimensioneret til det.
+Hvor mange punkter er der på en pilots sele? 5
+Hvilke krav er der til seler? De skal kunne åbens med en hånd og efterses samt vedligeholdes jf. AMM
+Hvad står ELT for? Emergency Location Transmitter
+Hvor mange punkter skal der være på en sele til et pilotsæde? 5
+Hvor mange punkter skal der være på en sele til cabin crew? 3
+Hvor mange punkter skal der være på en sele til passagerer? 2
+Hvor mange hænder skal der bruges for at åbne en sele på et fly? 1
+Hvor finder man time limits op hvornår seler skal efterses? AMM
+Hvor finder passagerer på et fly life veste? Under sædet
+Hvor finder piloten sin life vest? Bag sædet
+Hvordan pustes en life vest op? Med en Co2 patron eller manuelt
+Hvad kan høre med til en life vest? Fløjte, spejl og lys
+Hvem kan aktivere evacuation signal? Piloten, cabin crew og purser
+Hvilke frekvenser sender en emergency locater transmitter på? 121,5, 243 og 406 mhz
+Hvilke oplysninger er kodet ind i en emergency locater transmitter? Flynummer og landekode
+Hvornår er det tilladt at teste en emergency locater transmitter? De første fem minutter i hver time
+Hvem skal informeres når man tester emergency locater transmitter? Air traffic control
+Hvornår aktiveres en emergency radio beacon? Når den kommer i berøring med vand
+Hvad er et galley op et fly? Et køkken
+Hvad er formålet med rapid decompression panels? At udligne trykforskel ved pludselig trykfald
+Hvordan fæstnes net og stropper i cargo compartment? Med rails og latches eller øjer i strukturen
+Hvordan kan bagagen holdes fast hvis der ikke bruges net eller stropper? Den kan opbevares i containere
+Hvad er formålet med isolering på et fly? At isolere mod kulde og støj - kan også være brandhæmmende
+Hvorfra kommer der støj når man flyver? Fra motoren og aerodynamisk støj
+Hvilke frekvenser er der særligt fokus på når der isoleres? Høje (Talefrekvenserne)
+Hvilke frekvenser er svære at begrænse på at fly? lave
+Hvilke krav er der til materialerne sæderne i et fly blive lavet af? De skal være brandhæmmende
+Findes der metoder for stewardessen til at se om hattehylderne er tomme? Ja, spejle
+Hvordan åbnes en låst toilet dør udefra? Bag ved lavatory skiltet eller med værktøj
+Hvordan sættes sæder fast i et fly? Med rails i gulvet
+Hvor lang tid må det max tage at puste en slide op? 10 sekunder
+Hvilken gasart bruges til at puste en slide op? Nitrogen
+Hvad kan en slide bruges til andet end at komme ud af flyet med? Den kan bruges som en redningsflåde
+Hvad er en designated fire zone? Et sted hvor der eksisterer en potentiel risiko for brand, i tilfælde af lækage eller fejl.
+Hvordan kan man kontrollere fire protection systemet? Via fire system panels på flight decket - skal gøres "pre-flight".
+Hvad skal et fire protection system som minimum kunne? Kunne holde til flyets operationer, advare crew, være olie- og væskebestandigt, kunne funktionstestes og wirring skal være fire resistant.
+Hvilken indikation får man på en brand? Både visuel og auditiv alarm.
+Hvad sker der hvis der går ild i en APU, mens flyet står på jorden? Skyder automatisk halon beholderen, hvis der er brug for mere, så laver den cross-feed fra de andre systemer.
+Hvor mange extinguishers skal der være, hvis der er plads til 220 passagerer? 4
+Hvad er der specielt ved fire protection på lavatory? Der findes en halon-slukker i skraldespanden, som skyder automatisk, hvis temperaturen kommer over 80 graders celsius.
+Hvordan virker light refraction smoke detector? Via en fotoelectric cell, projection lamb, og en lighttrap måler den afbøjningen af lyset i den luft der er.
+Hvordan virker en ionisation smoke detector? Røgpartikler bliver mere ioniserede end almindelig luft, hvilket kan måles elektrisk og giver en alarm.
+Hvad er en crash switch i et fire protection system? I tilfælde af et crash (eller meget hård landing), vil den blive påvirket, og automatisk udløse alle flyets brandslukningsmidler.
+Hvilken brandklasse indeholder faste stoffer? A.
+Hvad kan slukke brande, der involverer faste stoffer? Vand, pulver, skum, tæppe, halon.
+Hvilken brandklasse indeholder væsker? B.
+Hvad kan slukke brande der involverer væsker? Pulver, CO2, skum og halon.
+Hvilken brandklasse indholder gasser? C.
+Hvad kan slukke brande der involverer gasser? Pulver, CO2 og halon.
+Hvilken brandklasse indeholder metaller? D.
+Hvad kan slukke brande i metaller? Special pulver og halon.
+Hvilken brandklasse indeholder vegetabilske olier/fedt? F
+Hvad kan slukke brande i vegetabilske olier/fedt? Tæppe og halon.
+Hvad gør et Jettison system? Dumper fuel
+Kan man jettison alt fuel på et fly? Nej
+Hvad er formålet med fuel tank vent systemet? At ventilere fuel tankene for at skabe overtryk så fuel dampene holdes nede
+Hvor kommer luften til tankene fra? Udefra eller kabinen
+Hvad er direkte dræning? Med en ventil på det laveste niveau
+Hvad bruges fuel transfer til? At overføre fuel fra en tank til en anden
+Hvilke komponenter bruges til fuel transfer? Boosterpump, fuel feed manifold og valves
+Hvad er kendetegnende for jet A brændstof? Flashpoint +38 grader - Frysepunkt -40 grader
+Hvad er kendetegnende for jet A1 brændstof? Flashpoint +38 grader - Frysepunkt -47 grader
+Hvad er kendetegnenede for jet B brændstof? Flashpoint +20 grader - Frysepunkt -50 grader
+Hvad er kendetegnende for JP5/F44 brændstof? Flashpoint +60 grader - Frysepunkt -46 grader
+Hvad er Flashpoint i forbindelse med brændstof? Det punkt hvor der skabes antændelige gasser
+Hvad er Freezing point i forbindelse med brændstof? Det punkt hvor brændstoffet fryser til is
+Hvorfor er vand i brændstof et problem? Det kan skabe bakterier der sætter sig i filter og pumper
+Hvad er en integral tank? En del af strukturen på flyet som f.eks wet wing
+Hvad er en bladder tank? En tank der er lavet af gummi og som kan tages ud af strukturen
+Hvad er formålet med fuel feed systemet? At få brændstof til motorerne
+Hvor mange pumper skal der mindst være til en motor? 2
+Hvad er en boost pump bypass valve? En envejs ventil til at lukke fuel ud
+Hvad er formålet med trim tank systemet? At spare brændstof
+Hvad er gravity fueling? Når der tankes ved hjælp at tyngdekraften fra f.eks toppen af vingen
+Hvad er pressure fueling? Fuelen bliver presset ind i tanken
+Hvad måler en quantity probe? Hvor meget brændstof der er i den pågældende tank
+Hvordan defineres flashpoint? Temperatur hvor fuel kan antændes
+Hvad er flahspoint for 100 LL AVGAS benzin? -40C
+Hvad er flashpoint for Jet B? -20 grader C
+Hvad er flashpoint for Jet A og A1? 38 grader C
+Hvad er flashpoint for JP5? 65 grader C
+Hvad er flashpoint for mineralsk hyd olie? 95-100 grader C
+Hvad er flashpoint for syntetisk hyd olie? 175-200 grader C
+Hvor vil vand findes i fueltanken? På bunden (vand er tungere end fuel)
+Hvad er formålet med at fjerne vand for fuel? Hindre mikroorganismer og is i fuel
+Hvad er et direkte dræn? Ventil direkte i beholder
+Hvad er et indirekte dræn? Ventil forbindes med rør til beholder
+Hvad bruges en vent tank til? Få luft ud af fuel tanken
+Hvad er en integral tank? En tank indbygget i strukturen (Fx wet wing)
+Hvad er en bladder tank? Det er en gummisæk fyldt med fuel
+Hvad er en build up tank? En tank ligesom i en bil
+Hvad er formålet med hullede plader i tanken? At dæmpe fuel inde i tanken
+Hvad er formålet med trimtanke? At kunne flytte CoG i flyet så det bliver mere effektivt
+Hvad er formålet med fuel jettison systemet? At dumpe fuel i tilfælde af nødlanding
+Hvad er formålet med fuel feed systemet? At feede fuel til motoren
+Hvad består fuel feed systemet af? Pumper, ventiler og en manifold
+Hvor mange booster pumps skal der være pr motor? 2
+Hvad er formålet med en bypass valve i booster pumpen? Lede fuel udenom hvis pumpen går i stykker
+Hvad er crossfeed valvens formål? At kunne føde fuel fra et system til et andet?
+Hvad er formålet med en high level sensor i tanken? Et fortælle tanken er fuld
+Hvad er formålet med en low level sensor? At fortælle tanken er tom
+Hvad er formålet med en drip stick eller magnetic floater indicator? Måle benzinstanden manuelt
+Hvilken type hyd olie er med kompresibel? Mineralsk
+Hvad er en ball type check valve? En envejsventil med en kugle flyder
+Hvad er en cone type check valve? En envejsventil med en flyder kegle
+Hvad er en swing type check valve? En envejsventil med en svingdør
+Hvilken tryk vil du aflæse på en akkumulator, hvis systemet ikke tømmes? 3000-5000 PSI (Systemtrykket)
+Hvad er akkumulatorens opgave? Opbevare tryk og forsyne aktuatorer
+Hvilken gas bruges i en akkumulator? Nitrogen
+Hvad er en restrictor valve? En indsnævret ventil, der sænker trykket
+Hvad er en seqeunce valve? En ventil, der kan forsyne forskellige systemer
+Hvad er en orrifice check valve? En ventil, der kan begrænse flow den ene vej mere end den anden
+Hvilken farve har mineralsk hyd olie? Rød
+Hvilken konsekvens har brugen af forkert hydvæske? Syntetisk hydvæske opløser pakninger til mineralsk
+Hvad vil det sige at en aktuator er balanced? Den forskyder lige meget væske i begge retninger
+Hvad vil det sige at en aktuator er unbalanced? Den forskyder ikke lige meget væske i begge retninger
+Hvad vil det sige at en aktuator er single acting? Hyd kommer ind og ud af samme kammer
+Hvad vil det sige at en aktuator er double acting? Hyd kommer ind og ud af begge kamre
+Hvad er formålet med et trykrejst reservoir? Kunne flyve i lavt tryk
+Hvilken type ventil er en drejeventil? En vælgerventil
+Hvilken type ventil er en glidevælger? En vælgerventil
+Hvad betyder positiv fortrængende? Samme mængde hyd fortrænges hele tiden af pumpen
+Hvad betyder ikke positiv fortrængende? Forskelig mængde hyd fortrænges af pumpen afhængigt af modtryk
+Hvilken type pumpe er en tandhjulspumpe? Positivt fortrængende
+Hvilken type pumpe skal altid have en pressure relief valve? Positiv fortrængende
+Hvilken pumpe er den mest anvendte? Stempel pumpe
+Kan en stempel pumpe regulere sin slaglængde? Ja i mange tilfælde reguleres det via feedback loop
+Hvad er kavitation? Dannelsen af små vacuum lommer i væsken
+Hvilken farve er syntetisk olie? Blå
+Hvad siger Pascals lov? At trykket i en lukket beholder vil fordele sig ligeligt
+Hvad er hyd trykket på almindelige fly? 3000-5000 PSI
+Hvilken type pumpe er en tandhjulspumpe? Positivt fortrængende
+Hvad har en inlet port i en hyd system forbindelse til? Reservoiret
+Hvor findes en button indicator? På filter for at angive filteret snart stopper til
+Hvad skal en heat exchanger? Varme fuel, køle luft og køle olie
+Hvilken type pumpe er en centrifugal pumpe? Ikke positiv fortrængning
+Må mineralsk og syntetisk hydolie blandes? Nej
+Hvad sker hvis mineralsk og syntetisk hydolie blandes? Pakningerne ødelægges
+Hvilken farve har mineralsk hydolie? Rød
+Hvilken farve har syntetisk hydolie? Klar til lys violet
+Hvad sker ved freeze point i hyd olie? Væsken skaber krystaller og filtre stoppes til
+Hvad skal en heat exchanger? Køle olie, varme fuel og køle bleed air
+Hvad viser en button indicator på et filterhus? Filteret stopper snart til
+Hvad viser en indicator på en fuel strainer? Filteret er ved at være stoppet
+Må man have en halvfyldt hydoliebeholder stående? Nej. Heller ikke med handske på Mike!
+Hvad siger pascals lov? Trykket fordeler sig ligeligt i en lukket beholder
+Hvad er hydtrykket på fly? Typespecifikt (Ofte 3000 - 5000 PSI)
+Hvad er et åbent hydsystem? Et reservoir med luft i
+Hvad er et lukket hydsystem? Et reservoir uden luft i
+Hvorfor er et hydreservoir trykrejst? For at fødepumpen og undgå kavitation
+Hvor sidder case drain? Det sidder i pumpehuset til hyd
+Hvor sidder case drain filteret? Det sidder i pumpehuset til hyd
+Hvad er formålet med en RAT (Ram Air Turbine)? Generere energi til vitale funktioner i nødstilfælde
+Hvad er forskellen på en balanced og unbalanced actuator? Balanced forskyder samme mængde i begge retninger
+Hvad skal altid være ved en positivt fortrængende pumpe? En pressure relief valve
+Hvilke fire problemer opstår som regel i forbindelse med is? Drag, weight, bad visibilty og tilstopning af pitot
+Inden for hvilket temperaturomårde er der problemer med clear ice? fra nul til minus ti grader
+Inden for hvilket temperaturområde er der problemer med rim ice? fra minus 10
+Hvilke problemer kan is i motorindsugningen give? Air flow disturbance og der kan komme skade på motoren hvis den suger større stykker ind
+Hvordan virker de-icer boots? De puster en beholder op med varm bleed air
+Hvad er det mest almindelige de-icing system til propeller? Elektrisk
+Hvad gør man hvis der allerede er is på flyet inden takeoff? Man sprøjter varm anti-ice væske på
+Hvor ofte bliver pitot/probe heat benyttet? Hver gang motoren starter
+Hvike to de-ice systemer findes der til propeller? Elektrisk og væske
+Hvorfor skal wing anti-ice og de-ice altid operere symmetrisk? Så der ikke skabes ubalance i vægten
+Hvad er formålet med window heat? At der ikke kommer is på ruden
+Hvad er rain repellent? En væske der gør det sværere for vand at sætte sig på flyet.
+Hvornår må et flys vinduesvisker IKKE tændes? Når ruden er tør
+Hvad er anti-ice? Sørger for at der ikke kommer is
+Hvad er de-ice? Fjerner is
+Hvilken type understel er mest normalt? Tri cycle
+Hvad er formålet med nitrogen i shockstruts? At skabe en fjedrende effekt
+Hvad er formålet med væske i shockstruts? At skabe en dæmpende effekt
+Hvad omdannes energien til når shockstruts komprimeres? Varmeenergi
+I hvilken manual findes proceduren til at bleede og servicere en shockstrut? AMM
+Hvorfor er hastigheden en shockstrut udstrækkes med mindre end når den komprimeres? Ellers kan der ske skade på materialerne
+Hvad bruger man til at pumpe dæk op med? Nitrogen
+Hvorfor pumpes dæk op med nitrogen? Fordi det ikke kan brænde
+Hvad omsætte bevægelsesenergien til i bremserne? Varmeenergi
+Hvornår er der fare for Hot Brakes? High energy landing
+Hvordan beskyttes dækket mod overtryk ved hot brakes? Thermal plug i fælg (160-200 grader celcisus)
+Hvad skal du gøre før du afmontere et hjul? Tage dæktrykket af
+Hvilke legeringer laves fælge i? Magnesium eller aluminium
+Hvilke egenskaber har nitrogen? Komprimerbart, fjedrende og inaktivt(brandhæmmende)
+Hvor anvendes nitrogen? Shockstruts, akkumulatorer og dæk
+Hvad sker med temperatur ved stigende tryk? Temperaturen stiger
+Hvor anvendes hydolie og nitrogen sammen? Akkumulatorer og shock struts
+Hvordan virker nitrogen i oleo ben? Fjedrende
+Hvordan virker olie i oleo ben? Dæmpende
+Hvordan kan man se om LG er nede? Lys i cockpit eller med vinduer og spejle
+Ved hvilkte punkt er fælgen tungest? Ved ventilen
+Hvad angiver det røde punkt på en dæk? Det letteste punkt
+Hvad angiver det gule punkt på en slange? Det tungeste punkt
+Hvordan kan det ses om en bremse er slidt ned? Slidindikaator er flush med strukturen når bremsen er påvirket
+Hvad skal gøres før et fly bugseres? Sakseled skal demonteres
+Hvad bruges Pneumatisk luft til? Motorstart, kabinetryk, pressurization af hydraulik og vand reservoir.
+Hvad kan levere luft til det Pneumatiske system? Powerunit, APU og groundpower.
+Hvorfor er det nødvendigt at kunne regulere bleedtrykket fra motorerne? For at have et konstant bleedtryk til det pneumatiske sytem.
+Hvordan bliver temperaturen på luften i det pneumatiske system reguleret? Ved brug af fan-air gennem precooler.
+Hvad bruges crossbleed valve til? Den isolerer det vestre fra det højre Pneumatiske system, samt giver mulighed for at overfører bleedair fra det ene til det andet system.
+Hvad moniteres af Pneumatic Controller? Bleed valve, Crossbleed, Leak detection, Fan valve.
+Hvilke informationer får piloterne fra det pneumatiske system? Fault indicators på Bleedair, Varme og diverse ventiler.
+Hvad kaldes de to trykniveauer hvorfra bleedair bliver taget fra kompressoren? Intermediate pressure IP og High pressure HP.
+Gennem hvad bliver det pneumatiske system distribueret? Gennem wingducts, pylon ducts, APU duct og crossover samt crossbleed manifold.
+Hvor mange pneumatic controllers skal der være på et fly? En pr engine bleed system.
+Hvornår bruges HP valve i bleedair systemet? Når der ikke leveres nok tryk fra IP valve.
+Hvorfra kan APU bleed load valve aktiveres? Det kan aktiveres på en switch i cockpittet.
+Hvad er standard størelsen på ground air connectors? 3 inch eller 3 tommer.
+Hvad styres corssbleed valve af? Den bliver styret manuelt eller automatisk og er drevet af en motor.
+Hvordan opdages der om der er et leak på det pneumatiske system? Ved brug af overheat detectors i ducts.
+Hvilke områder i det pneumatiske system bliver overvåget for leak? Pylon ducts, wing ducts, fusselage ducts og APU duct.
+Hvilke funktioner har pneumatic controller? Den moniterer bleed valve, fan air valve, high pressure valve, leak detection.
+Hvor har man adgang til kontrol af det pneumatiske system? På bleed panel på overhead panel i cockpittet.
+Hvad er fail safe? Der er indsat flere komponenter/strukturdele således at går 1 i stykker, så vil flyet stadigvæk kunne opererer normalt.
+Hvad er safe life? Komponenterne/strukturen er tidsbestemt således at de bliver udskiftet inden det går i stykker.
+Hvor er Main gear i forhold til Center of Gravity(CG)? Lige bag CG.
+Hvad er monocoque design? Hvor skinnet er den bærende struktur (selvbærende).
+Hvad er semi-monocoque? Hvor skinnet er en del af den bærende struktur (medbærende).
+Hvordan beskytter man sig mod farerne ved lynnedslag i flyet? Lightning strips, bondings, static wicks. 
+Hvad er Lightning Diverter strips? Et ioniseret metalspor der leder lynet fra Radomes til metalstruktur, da radomes er af composit(kan ikke lede strøm uden at gå i stykker).
+Hvad er Faraday Cage på et fly? Fuselage og struktur er bondet sammen(Potentialeudlignet) og fungerer som faraday cage hvor lynet bevæger sig på ydersiden.
+Hvad er komposit? Lim (Resin) og fiber blandet sammen.
+Hvad er fordelene ved komposit ift. metal? Bl.a. korrossionsestandigt, lettere og vibrationsdæmpende.
+Hvad er fuselage stations? Vertikale flader som ligger vinkelret med roll-aksen (x-aksen).   
+Hvad er Water lines? Horizontal flader som ligger vinkelret med yaw-aksen (z-aksen). 
+Hvad er Buttock lines? Vertikale flader som ligger vinkelret med pitch-aksen(y-aksen) Fortsætter ud i wingen og kaldes så Wing-stations. 
+Hvad er truss design? Gitterkonstruktion
+Hvordan forstærker man strukturen ved store cutouts, f.eks. ved main landing gear doors? Vha. keelbeams, longeronger og bulkheads.
+Hvad er keelbeams? Kræftig langsgående bjælke, typisk i bunden af fuselagen.
+Hvad er longeronger? Langsgående stænger som ligger hele vejen rundt i fuselagen. 
+Hvad er bulkheads? En kraftig pladedel (Ring eller brændskot) i fuselagen som bruges til ekstra styrke i det område den sidder i. 
+Hvad er primær struktur? Den del af strukturen som optager kræfter (Holder flyveren sammen).
+Hvad er sekundær struktur? Den del af strukturen som former flyveren areodynamisk. Optager ikke kræfter.
+Hvad er tertiær struktur? Struktur som ikke er primær og sekundær struktur. F.eks. en krog til at holde en lem osv. 
+Hvad er LLF (Limit Load Factor)? Den grænse (G-påvirkning) hvorover flyets struktur må begynde at blive deformeret, men ikke må gå i stykker. 
+Hvad er ULF (Ultimate Load Factor)? Den grænse (G-påvirkning) hvorover flyets struktur begynder at gå i stykker. 
+Hvad er stagger på et bi-plan? Det er hvor vingerne er forskudt ift. hinanden. 
+Hvad er bi-plan? 2 vinger over hinanden.
+Hvad er corrugated metal? Ligesom bølgepap
+Hvad er buckled skin? Når skinnet er "skubbet" sammen og laver "folder", kan forkomme på undersiden af vingen. 
+Hvad er anhedral? Vingerne bøjer nedad (som et A set forfra eller bagfra) 
+Hvad er dihedral? Vingerne peger opad
+Hvad er fuselage? Flykroppen
+Hvad er empenage? Hale-partiet 
+Hvad er wing bending relief? Mindske vingens bøjning opad skabt af lift, ved at placere vægt i/under vingen. F.eks. fuel og motorer. 
+Hvilke forholdsregler skal man tage inden man vasker et fly? Den skal afdækkes jævnfør AMM.
+Hvad er hoop stress? De udadgående trykkræfter i fuselagen vil skabe tension på begge sidder af skinnet, også kaldet dobbelt tension.  
+Hvordan er en conventional tail opbygget? Vertikal(lodret) stabilizer og rudder, i bunden sidder horizontal(vandret) stabilizer og elevator.
+Hvordan er en T-tail opbygget? Vertikal(lodret) stabilizer og rudder, i toppen sidder horizontal(vandret) stabilizer og elevator. (Ligner et T bagfra)
+Hvordan er en V-tail opbygget? Rudder og elevator er bygget sammen og ligner et V set bagfra.
+Hvad er tension? Kræfter som trækker i et materiale.
+Hvad er compression? Kræfter som presser et materiale sammen.
+Hvad er shear? Kræfter som agerer radialt på et materiale, og vil lave en sakse-effekt. 
+Hvad er torsion? Kræfter som vrider i et materiale.
+Hvad er bending? Hvor et materiale bøjes. Der skabes træk (Tension) på den ene side og tryk (compression) på den anden side. 
+Hvad betyder cantilever? Vingen er ikke understøttet.
+Hvad betyder non-cantilever? Vingen er understøttet.
+Hvad skal man som designer overveje, når man skal lave drænhuler i fly? At drænhullet vil forringe strukturens styrke i det område hvor der laves hul, hvis der ikke kompenseres vha. ekstra forstærkninger. 
+Hvilke undersystemer består et nyere "Autoflight System" oftest af? Auto pilot, flight director, auto throttle, autotrim og yaw dampner
+Hvilken funktion har en "Autopilot"?Den styrer som udgangspunkt roll og pitch, men kan også styre yaw. Er den aktive del, der styrer flyet
+Hvilken funktion har en flight director? Giver passive indikationer og inputs til hvordan flyet "burde" flyves. Styrer IKKE flyet
+Hvilken funktion har "Inner loop" i autopiloten? Den regulerer roudslag givet en refferencevinkel via et feedback loop
+Hvad vil det sige at en autopilot er "Fail Operational"? 3 seperate systemer overvåger hinanden og hvis en er uenig med de to andre, vil det være disse, der styrer.
+Hvad forstås ved "Flight Envelope Protection"? Holder flyet indenfor sine mekaniske begrænsninger, ved at begrænse de udslag piloten kan inducere i flyet
+Hvad dækker begrevet "Fail passive" over? Et autopilot system med to systemer, der kun styrer flyet hvis begge er enige.
+Hvad dækker begrebet "Fail Safe Autopilot" over? Et simpelt autopilot system, der kun kan styre flyet over en given højde, for at give piloten tid til at gribe ind i tilfælde af fejl
+Hvor ses kontrolpanelet til autopiloten oftest i cockpittet? Centralt og i øjenhøjde for at holde piloten opmærksom på dens indstillinger
+Hvad gør "Outer Loop" i autopiloten? Giver inputs til inner loop, udfra en ønsket flight path for flyet
+Hvorfor skal "Inner Loop" have IAS som input? Fordi Indicated Air Speed er afgørende for hvor stort et rorudslag, der skal bruges for at ændre flyets attitude.
+Langs hvilken akse styrer autothrottle flyet? Langs x-aksen
+Hvad er en TOGA i en autopilot? Et system hvor take-off og go-around kan styres fra samme knap på gashåndtaget
+Hvorfor findes yaw damper i autoflight systemet? For at hindre piloten inducerer et dutch roll i flyet
+Hvad er et dutch roll? En svingning i flyvningen hvor flyet konstant overkorrigerer, og derfor forbliver i svingningen
+Hvorfor gives flyet et roll moment når det går ind i et dutch roll? Yaw bevægelsen giver anledning til mere lift på den ene vinge end den anden, og derfor ruller flyet
+Hvad er den primære grund til at vi vil undgå dutch roll? Komfort, slitage og brændstoføkonomi
+Hvorfor anvendes et band pass filter i en yaw dampner? For at yaw dampner ikke hindre vores evne til at dreje
+Hvad hjælper yaw dampner med når piloten vil dreje? Sikre at piloten flyver koordineret, således at piloten ikke behøver at bruge pedalerne når han drejer
+Hvilken type gyro får en yaw damper input fra, for at kende flyets yaw rate? Rate gyro
+Hvornår slås yaw damper til? Den kører hele tiden
+Hvad vil det sige at et fly et "trimmet"? Det flyver uder ændring i retning og højde hvis man slipper sit kontrolhåndtag
+Hvilken akse trimmes der mest på? Y-aksen (Pitch trim)
+Hvad kan trimmes udover pitch? Roll og yaw
+Hvilken flade rykkes der på når store moderne fly trimmes? Horisontal stabilizer
+Hvis autopiloten er til, hvad sker så hvis piloten selv trimmer flyet? Så slår autopiloten fra
+Hvad får autotrim til at trimme flyet? Når autopilot holder elevator ved et konstant udslag, trimmes flyet i stedet for at mindske rorudslaget
+Hvorfor trimmes hele horisontal stabilizer på store fly? Det er mere brændstoføkonomisk end at trimme på elevator
+Hvad er machtrim? Et trim der modvirker tug under ved høje hastigheder
+Hvad sker der på fly med motorne på undersiden af deres lave vinger, hvis de giver pludselig høj thrust ved lav hastighed? Det giver nose up attitude, der giver fare for stall
+Hvad er speed mode på et autothrust system? Det er et flys ækvivalent til en fartpilot. Sikre at flyet flyver med konstant hastighed
+Hvad er thrust mode på et autothrust system? Sikre at flyets motorer har en bestemt ydelse
+Hvornår bruges thrust mode? Når flyet skal lette eller på anden måde ændre højde
+Hvornår bruges speed mode? Når flyet flyver i cruise og blot skal holde den mest optimale hastighed
+Hvilke fly anvendes thrust hold på? Det anvendes på fly med mekanisk forbindelse mellem thrust lever og motor
+Hvad gør thrust hold? Slår kontrolcomputer fra når korrekt fart er opnået under take-off
+Hvad er forskellen på autothrottle og autothrust? Autothrottle dækker over kontrolcomputer på fly med mekanisk forbindelse mellem power lever og motor, og autotrhust er på fly med fly-by-wire
+Hvilken rorflade er yaw damper tilkoblet? Rudder
+Hvad kaldes de to måder et "Auto Throttle System" kan styre motorer efter? Thrust mode og speed mode
+Hvad er formålet med Flame Arrestors? Hæmme flammers udbredelse.
+Hvad er mulige årsager til at udføre alignment check? Hård landing og overbelastning ved flyvning.
+Hvad er 3 vigtige ting ifm. vask af et fly? Brug rigtig sæbe, personlig beskyttelse og afdækning.
+Hvad er Alodining? Kemisk behandling, hvor alluminiumsdele børstes eller dyppes i et bad med beskyttende Zink-Kromat konverserende coating. (Konverserer/omdanner oxid-laget på allu til Krom/allu oxid-lag.  
+Hvad er fordelene ved Alodining? Øget korrosionsbeskyttelse, binder maling, giver elektrisk ledende film til bonding og grounding.
+Hvad er formålet med varme vinduer? Holder dem smidige og dugfri. 
+Hvad er en plug-door? En dør som er større end hullet i flykroppen. Benyttes i trykkabiner, så døren ikke kan trykkes ud. 
+Hvad er Torsion? Materiale udsat for vridning.
+Hvad er Young's modul? Forholdet mellem stress og strain (belastning og udvidelse). 
+Hvad er Yeilds point? Punktet hvor materialet ikke længere vil vende tilbage til oprindelig tilstand. 
+Hvad er fordelene ved truss design? Billig, let og nem i fremstilling. 
+Hvad er Monocoque? Struktur hvor skinnet er selvbærende.
+Hvad er Semi-monocoque? Struktur med stringers, frames og longeronger og skinnet er selvbærende. 
+Hvad er stall-speed ved 0 G-påvirkning? 0 knob.
+Iht. CS 25. Hvad er Max positive og negative Limit Load Factor (Flaps retracted)? 2,5 G positive og 1 G negative.
+Iht. CS 25. Hvad er Max positive og negative Ultimate Load Factor (Flaps retracted)? 3,75 G positive og 1,5 G negative. 
+Hvad er Fail-safe? Kontruktion der består af mange dele og løbende skiftes ud, hvis der opstår skader. 
+Hvad er Safe-life? Tidsbegrænset struktur der består af få dele.
+Hvad er Creep? Deformation over tid.
+Hvad er isolering brugt til? Beskyttelse mod kulde, lyd og kondens.
+Hvad er drænmulighederne når der er tryk i kabinen? Dræn lukker.
+Hvad er Airscoop? En åbning der sikre tilstrækkelig ventilation. (Bruges når man får det dårligt i T-17 og skal have frisk luft :-D) 
+Hvor er der mulige skader efter lynnedslag? Elektriske systemer, struktur, sammensvejsede lejer, piloter bliver blændet. 
+Hvad er Electro-static dischargeres? Leder statisk elektricitet væk fra flyet. 
+Hvad er Lightning diverter strips? Leder lynet hen til flyets struktur. (Ioniseret metalspor som leder lynet fra radome til metalstruktur, da radomes er af composit og derfor dårlige til at lede strøm).
+Hvad er Stringers? Små langsgående strukturprofiler der styrker skinnet.  
+Hvad er Longerons? Store langsgående bjælker. 
+Hvad er Frames? Formgivende rammer. 
+Hvad er Cantilever? Selvbærende vinge.
+Hvad er Non-cantilever? Vinge med struts eller wire der støtter strukturen. 
+Hvad er Main wing spar? Vingens hovedbjælke der optager alle typer kræfter. 
+Hvad er fodele og ulemper ved Wing-wire/drag wire? Spare vægt i strukturen, men giver luftmodstand. 
+Hvad er wing torsion box? En vingestruktur bestående af bjælker, ribber, skind og stringers. 
+Hvad er fordele og ulemper ved en T-hale? Bedre aerodynamik, men strukturen skal være stærkere. 
+Hvilke materialer bruges til rorflader, og hvorfor? Alu, carbon, glasfiber, titanium, stål, honeycomb, kevlar, boron. Rorflader skal være stærke, stive, lette og slidstærke. 
+Hvad er False spar? En ekstra bjælke der sættes ind hvor vingen kræver ekstra styrke.
+Hvad er formålet med wing-box? Skal optage alle kræfter der påvirker vingen. Kan samtidig være brændstoftank. 
+Hvad er primary structures? De største dele af bærende struktur eks. spar, longeron.
+Hvad er secondary structures? Formgivende struktur der optager interne og aerodynamiske kræfter. 
+Hvad er tertiary structures? Paneler, polstring, møblering, håndtag. 
+Hvad strammer man lærred op med? Dope.
+Hvad er Datum? En referencelinje.
+Hvad er buttock lines? Vertikale linjer igennem flykroppen. 
+Hvad er Water lines? Horisontale linjer igennem flykroppen.
+Hvad er meningen med zone-opdeling? En hjælp til at lokalisere komponenter. 
+Hvad er LLF? Limit Load Factor. Belastning over denne grænse kan give deformationer. 
+Hvad er ULF? Ultimate Load Factor. Belastning over denne grænse kan føre til total haveri. 
+Hvad er Corrugated metal? Buler eller rynker der gør skindet mere stift så det kan modstå compression. 
+Hvad er Buckled skin? Buler eller rynker pga. overbelastning (compression). 
+Hvad er Alclad? Tyndt lag af ren alu der er valset på alu-plader (Korrosionsbeskyttelse). 
+Hvad er Composit? Blanding af fiver og lim. 
+Hvad er Glare? Blanding af composit og alu-plade (I lag ligesom sandwich).
+Hvad er fordele og ulemper ved integraltanke? Udnytter alt plads, men bliver utæt med tiden. 
+Hvad er en gummi-cell tank? En gummi tank der er ophængt i mange små kroge. 
+Hvad er formålet med fireseal/brandskot? Forhindre en motorbrand i at brede sig til resten af flyet. 
+Hvad er fatique load meter? Et instrument der opsamler info om hvor meget flyet bliver belastet. 
+HVad er fordelen ved velvet pressure bulkhead/trykdome? Det er stærkere, fordi det er udsat for hoop-stress.
+Hvad er MTOW? Maximum TakeOff Weight.
+Hvad er Wing bending relief? Placering af motorer og fuel på og i vingerne, for at spare strukturvægt. 
+Hvad er Fire bulkhead lavet af? Rustfrit stål, titanium.
+Hvad er Compression? En belastning hvor materialet presses sammen/komprimeres. 
+Hvad er Tension? En belastning hvor materialet strækkes.
+Hvad er Shear? Materialet er udsat for klippe belastning. 
+Hvilke farver har anti collision lights? Hvidt og rødt(anti collision beacon lights)
+Fra hvilke sider skal anti collision lights kunne ses? Skal kunne ses fra alle vinkler og vise hele flyets omrids
+Hvor stor en vinkel skal navigationslys på vingespidsen dække? 110 grader
+Hvilken vinkel skal navigationslys på halen dække? 2*70 grader (140 grader i alt)
+På hvilken side af flyet anvendes grønne navigationslys? Højre side
+Hvilken farve anvendes på venstre side af flyet? Røde
+Må navigationslys blinke? Nej
+Hvilke typer external lights findes der? Landing, taxi, navigation, wing, anti collision light, position, wing inspection, logo light and ice indicator light 
+Hvad er forskellen på en glødepære og en HID lampe? HID lampen får en gas til at lyse og den anden en tråd
+Hvad er fordelen ved en HID lampe i forhold til glødelampen? Længere levetid, mere effektiv og kraftigere lys
+Hvilke forholdsregler skal der tages i forhold til HID lamper? De er under højt tryk og kan derfor eksplodere
+Hvad er fordelen ved en LED lampe i forhold til glødelampen? Effektive, hvidt lys, lang levetid og lav spænding
+Hvad står LED for? Light Emitting Diode (Lysudstrålende Ensretter)
+Hvilken spænding anvendes til LEDer? 5 V DC
+Hvad er formålet med navigationslys? At vise flyets orientering, og derved hvor flyet er på vej hen
+Hvilke to typer anti collision lights og beacon lights bruges? Hvide strobe lys og rotorspejl
+Hvad bliver oplyst i nødstilfælde? Gulv, nødudgange, instrumenter og nødudstyr
+Hvilke typer interior lights findes? Flood light, panel integral, service lights, warning, caution og indication
+Hvilke instrumenter har lys hvis der kun er emergency power på flyet? Dem i basic T
+Hvad kaldes det lys, der udsendes af en "self-powered" kilde? Beta light
+Hvad kalder man det lys, der belyser døre ved nødsituationer? Emergency lights
+Hvad betyder caution light? At der er opstået en situation, der ikke er direkte farlig, men at visse handlinger nu kan være farlige
+Hvordan virker en kemisk oxygen generator? En firing pin skyder ind og giver anledning til en kemisk reaktion
+Hvad står forkortelsen OBOGS for? On-Board Oxygen Generator System
+Hvad er fordelene ved LOX? Kræver ekstremt lidt plads i forhold til hvor meget GOX den kan danne (1:865 ekspansion)
+Hvad er fordelene ved GOX? Let at håndtere, nemt at få fat i og ikke under højt tryk
+Hvor mange procent O2 indeholder luften i atmosfæren og hvordan ændrer det sig med højden? 21 % og det ændres ikke med højden
+Hvordan kan passagermaskerne udløses? Manuelt, pneumatisk eller elektrisk
+Hvilken tryk får oxygenmaskerne til at udløses? Tryk svarende til 14000 fods højde eller derover
+Kan pilot aktivere oxygenmaskerne? Ja
+Kan oxygenmasker udløses af røgdetektorer i flyet? Ja
+Hvad skal foretages hvis oxygensystemet har været adskildt? Systemet skal purges
+Hvor må et purge af oxygensystem foretages? I et GOX alert område
+Hvilken gas bruges til et purge af oxygensystemer? Nitrogen
+Hvilket max cabin pressure opretholdes normalt under flyvning? 6000-8000 fod
+Hvilke oxygensystemer anvendes i luftfart? LOX, GOX, OBOGS og kemisk oxygen
+Hvordan tilsikres det at man har fat i en oxygenvogn? Det står på markaten og den har blå ventiler
+Må der anvendes olie til at smøre fittings i et oxygensystem? Nej. (Glem det der specialfedt Mike...)
+Hvad er en donning mask? Maske til pilot, der kan sættes på med en hånd
+Hvordan aktivers en Mask Lanyard Pin? Ved at der manuelt hives i den
+Hvordan kan man se at en kemisk oxygengenerator har været i brug? Varmefølsom tape eller en orange/lilla markat, der bliver sort ved varmepåvirkning
+Hvilken type Drop Out Ventil anvendes ved Chemical Oxygen Generators? Deenergisen solenoid. En elektrisk ventil
+Hvordan kan man se at Over Pressure indicator har været aktiveret? Grøn blow out disc på ydersiden
+Hvordan aktiverer piloten en Diluter Demand Regulator? Ved at trække vejret ind doserer systemet selv iltmængde
+Hvad er en Pressure Demand Regulator? Et system der selv "trykker" ilt ind til masken. Skal bruges i højder over 40000 fod
+Hvilken farve har blinkeren på en flow indicator? Hvid hvis der ér luft igennem og sort hvis der ikke ér
+Hvor kan piloten få ilt fra når der er valgt NORM på regulatoren? Kabineluft blandet med oxygen. Blanding reguleres af barostat.
+Får piloten nogensinde genbrugsluft fra kabinen? Nej
+Hvad står PSU for? Passenger Service Unit
+Kan "Medical Oxygen" anvendes i stedet for "Breathing Oxygen"? Nej, da det indeholder for meget vand.
+Hvor mange liter GOX giver 2 liter LOX? 1730 liter (Ekspantion på 1:865)
+Hvad er kogepunktet for LOX? -183 grader celcius
+Hvilke materialer anvendes til højtryks oxygenrør? Rustfrit stål eller alulegering
+Hvordan markeres højtryks oxygenrør? Rørne er hvide, og har markater på
+I hvilke typer oxygensystemer kan et Electronic Pulse Demand System anvendes? Contiuous flow system
+Hvorfra kommer engine bleed air? Kompressoren i motoren
+Hvilke ting kan levere luft til det pneumatiske system? APU, motor eller ground cart
+External air kobles til flyet via? Ground cart
+Hvad er den vigtiste årsag til at trykrejse kabinen? Sikre den livsnødvendige ilttilførsel til hjernen
+Hvilke 5 ting skal air condition sikre? Temperatur, tryk, renhed, fugtighed og ventilation
+Hvor stor luftudskiftning skal der minimum være? 0.5 lb/min/person
+Hvor afgives energien i et ACM system? Heat exchanger og turbine
+Hvad står ACM for? Air Cycle Machine
+Hvad er formålet med en Temperature Control Valve i en ACM? Holde temperatur på ca. 18-24 grader celcius
+Hvilken type kølemaskine bruges i køleskabe? En VCC
+Hvad står VCC for? Vapor Cycle Machine
+Hvad er komponenterne i en ACC? Water seperator, mix chamber, flow control valve, heat exchanger, kompressor, turbine og temperature control valve
+Hvad gør en water seperator? Udskiller vand fra 2 grader varm luft
+Hvor sidder water seperatoren? Sidst lige inden mixing chamber
+Hvor sidder mixing chamber? Sidst i systemet
+Hvad er formålet med mixing chamber? At blande varm luft og kølet luft for at opnå 18-24 grader celcius
+Hvad er formålet med en flow control valve? At styre hvor meget luft der tilføres en ACC
+Hvor sidder en flow control valve? Aller først i systemet
+Hvad er formålet med en heat exchanger? At køle luften
+Hvor sidder en heat exchanger? Lige før og efter Kompressoren
+Hvad er formålet med en kompressor i en ACC? At komprimere luften, så temperaturen stiger, og vi kan køle luften yderligere
+Hvor sidder kompressoren i en ACC? Lige efter Primary Heat exchanger
+Hvad drives kompressoren i en ACC af? Turbinen
+Hvor sidder turbinen? Lige inden water seperator
+Hvad er formålet med turbinen? At fjerne energi fra luften og derved køle den
+Hvad sker med tryk og temperatur i kompressoren? Stiger og stiger
+Hvad sker med tryk og temperatur i turbine? Falder og falder
+Hvad sker med tryk og temperatur i primary heat exchanger? Falder og falder
+Hvad sker med tryk og temperatur i secondary heat exchanger? Falder og falder
+Hvad sker med tryk og tempertur i den kølede luft i mix chamber? Stiger og stiger
+Hvilke komponenter findes i en VCC? Compressor, evaporator, condensor, expansion valve og reciever
+Hvad sker med tryk og temperatur i kompressoren i en VCC? Stiger og stiger
+Hvad sker med tryk og temperatur i en evaporator? Falder og stiger
+Hvad sker med tryk og temperatur i en condensor? Stiger og falder
+Hvad sker med tryk om temperatur i en expansion valve? Falder og falder
+Hvilken fysisk tilstand findes i en kompressor i en VCC? Gas
+Hvilken fysisk tilstand findes i en evaporator? Væske bliver til Gas
+Hvilken fysisk tilstand findes i en condensor? Gas bliver til Væske
+Hvilken fysisk tilstand findes i en expansion valve? Væske
+Hvor i en VCC findes det relativt høje tryk? I kondensor og reciever
+Hvor findes det relativt lave tryk i en VCC? I evaporator
+Hvad sker hvis temperatur bliver for høj i ACM? Pack valve lukker
+Hvad er forskellen på luft til piloterne og luften til passagere? Piloter får aldrig genbrugsluft
+Hvad er formålet med trim air system? Tilpas temperaturen til forskellige zoner
+Hvilke komponenter ingår i recirkuleringssystemet? Recircling fan, air trim fan, manifold og modulating trim valve
+Hvor bliver luften fra køkken og toilet ventileret hen? Outflow valve
+Hvad hedder ventielen der åbner og lukker for air con? Pack valve
+I hvilke zoner vælges der ofte relativ høj temperatur på air con? Dyre billetter hvor passagererne ikke sidder så tæt
+I hvilke zoner vælges der ofte relativt lav temperatur på air on? Billige billetter hvor passagerer sidder tæt
+Hvad betyder cabin altitude? Tryk i kabine angivet som højde i fod
+Hvorfor er det et problem for mennesker at opholde sig i en højde af mere en 10.000 fod? Der er for lidt ilt tilgængeligt ved indånding
+Hvad er Cabin Rate of Change? Rate for trykændring inde i kabinen
+Hvad er differential pressure? Forskel mellem kabinetryk og ambient tryk
+Hvor hurtigt må trykket i kabinen falde? Svarende til 500 fod/min
+Hvor hurtigt må trykket i kabinen stige? Svarende til 300 fod/min
+Hvornår må trykket i kabinen ændre sig med 500 fod/min? Når flyet stiger og trykkey skal falde
+Hvornår må trykket i kabinen max ændre sig med 300 fod/min? Når flyet falder og trykket skal stige
+Hvorfra kommer luften til trykrejsning af kabinen? Bleed air
+Hvordan bliver trykket reguleret i kabinen? Outflow valve
+Hvad er det "meget forkerte svar" til hvordan tryk reguleres i kabinen? Det er pack valve Schneider
+Hvor mange positiv pressure relief valves er der? 2
+Hvor mange negativ pressure relief valves er der? 2
+Hvilke former for altitude warning er der? Visuel og audiotiv
+Hvorfor er der flere motorer op outflow valve? For redundans
+Ved hvilket kabinetryk falder masker ned til passagere? 14.000 fod
+Ved hvilket kabinetryk lukker outflow valve? 15.000 fod
+Hvad køler pre-cooleren luften til? 170 grader celcius
+Hvilken temperatur efterstræbes i kabinen? 18-24 grader celcius
+Hvor meget luft skal minimum være frisk til passagererne? 50 %
+Hvilke modes kan trykket indstilles efter? Ground mode, take-off mode, flight mode og landing mode
+Hvordan er kabinetrykket i ground mode? Svarende til ambient luft
+Hvordan er kabinetrykket i take-off mode? Svarende til -70 fod i forhold til ambient luft
+Hvordan er kabinetrykket i flight mode? 6000-8000 fod
+Hvorkan er kabinetrykket i landing mode? -100 fod
+Hvordan er outflow valve indstillet i ground mode? Den åbnes helt for at udligne trykket
+Hvad kan piloterne se på deres instrumenter vedrørende tryk? Cabin altitude, differential pressure, rate of change, altitude warning (lyd og lys) og control panel til at indstille tryk hvor der lettes fra og hvor der landes
+Hvad er formålet med blow out panels? At Udligne trykket melle kabine og carbo rum
+Hvorfor er det vigtigt at udligne tryk mellem kabine og cargo rum? Da gulvet ikke kan klare disse belastninger
+Hvad er formålet med ditching valve? At lukke alle ventiler i tilfælde af nødlanding på vand
+Hvad bruges cabin oxygen til? Oxygen til masker i kabinen
+Hvad bruges cockpit oxygen til? Oxygen til maskerne i cockpit
+Hvad bruges portable oxygen til? Oxygen til bærbar maske til kabinepersonale
+Hvilken sikkerhedsfunktion træder i kraft ved 10.000 fod? Lys og lyd advare pilot om at han skal tage iltmaske på
+Hvad er en positiv pressure relief valve? En vetil der åbner hvis kabinetryk bliver 1.33 gange højere end det designede differentialetryk
+Hvad er en negativ pressure relief valve? En ventil der åbner hvis kabinetrykket bliver 0.5 PSI lavere end ambient luft
+Hvad er fordele ved at gemme fejldata fra flyets systemer? Man kan forebygge andre fejl og planlægge sit vedligehold
+Hvordan verificerer man at man har rettet en fejl? Bruger operational test. BITE
+Hvordan kan man se hvor kritisk en fejl er? Det angives på et level fra 1-3
+Hvor kan fejldata fra flyet ses? På MCDU eller tilkoblet bærbar
+Hvad står MCDU for? Multipurpose Control and Display Unit
+Hvad står ECAM for? Electronic Centralized Aircraft Monitor
+Hvordan markeres ECAM fault levels? Med farverne rød, gul og grøn
+Hvad kaldes hovedcomputeren i et On-Boards Maintenance System? CMC (Central Maintenance Computer)
+Hvilken type papir bruges typisk til luftbårne printere? Tyndt varmefølsomt papir
+Hvad er fordelene ved varmefølsomt papir i luftbårne printere? De kræver ikke blæk
+Hvilke systemer bliver konstant monitoreret af BITE? Aircondition, landing gear, hydraulik, anti ice og electrical systems
+Hvilke systemer kommunikerer med CMC? Hydraulik, fuel, strøm, ACARS, ECAM, MCDU og printere (med flere)
+Hvad står IMA for? Integrated Modular Avionics
+Hvilke fly bruger IMA? Store passagerfly
+Hvad er forskellen på IMA og LRU? Mange funktioner er samlet i en box
+Hvad står LRU for? Det aner jeg ikke
+Hvad er forskellen på klassisk ARINC-429 og ethernet? ARINC-429 er simplex og ethernet er full duplex
+Hvilken flyver bruger ARINC-429 som sin primære bus? Airbus 777
+Hvad er fordelene ved et switched ethernet? Alt kører på samme bus, så vi spare vægt og ingen behøver vente med at sende deres data
+Hvad betyder det at et netværk er simplex? Envejs kommunikation hvor der er en, der kan snakke ad gangen
+Hvad betyder det at et netværk er duplex? Tovejs kommunikation hvor der er en ad gangen, som kan tale
+Hvad betyder det at et netværk er full duplex? Tovejs kommunikation hvor alle kan snakke på samme tid
+Hvad hedder netværkverdenerne i Airbus A-380? Avionics World og Open World
+Hvad står AFDX for? Avionics Full Duplexed Switched ethernet
+Hvad er fordelene ved IMA i A-380? Der er off the shelf komponenter, der gør flyet hurtigt kan konfigureres
+Hvad står CIDS for? Jeg aner det ikke
+Hvorfra kan CIDS testes? Kun på MCDU i cockpittet
+Hvor meget skal ændres i CIDS, hvis man omkonfigurerer kabinen? Fuld software update eller bytte flash drives update
+Hvorfra kan man styre kabinen? FAPen
+Hvad står FAP for? Jeg aner det ikke
+I hvilken type fly bruges topline og middleline busser? I fly med 2 passagerdæk
+Hvor er softwaren til de 2 directors placeret? FAPen
+Hvad gør de tre Flash Card Readers neders på FAPen? Indlæser flash cards med hhv a, b og c (HJÆLP MIG)
+Hvad bruges Water/Waste siden til på FAPen? At se beholdning af water og waste, samt andre værdier tilknyttet water/waste
+Hvordan ser cabin crew hvem eller hvilket område, der kræver opmærksomhed? Area Call Panel (ACP)
+Hvilke muligheder har piloten for at give besked over PA-anlægget? Head set eller PA-knap på Audio Control Panel
+Hvad står PRAM for? Prerecorded Announcment and Music
+Hvilke lysskilte kan piloten tænde? Return to seat, no-smoking og seat belt
+Kan andre end piloten tænde for Return to seat, no-smoking og seat belt? Nej
+Hvad står IFEC på Airbus A380 for? In-Flight Entertainment Center
+Hvad er CDSS i en Airbus A380? Cock-Pit Door Surveilance System, for at se hvem, der vil ind i cockpittet
+Kan sattelit kommunikation anvendes til telefonsamtaler på nogel fly? Ja
+Hvad står FANS for? Future Air Navigation System
+Hvad bruger FANS til at kommunikere? Satellit, HF og VHF
+Hvilket format sender FANS sine beskeder i? Textformat
+Hvad er årsagen til at FANS er implementeret? Mik er det ikke noget med flysik, og undgå miskommunikation pga accent osv
+Hvilke informationer får piloten over FANS? Textbeskeder fra accent
+Hvad er fordelene ved at bruge FANS? At kunne kommunikerer kort og præcist uafhængigt af verbale misforståelser (Ikke også Mik? :D)
+Hvorpå ses beskeder fra FANS-systemet i cockpittet? På MCDUen
+Hvad hedder den centrale komponent, der styrer kommunikationen til og fra jorden i et FANS-cockpit? DCDU
+Hvad står DCDU for? Aner det ikke
+Hvad står EFB for? Electronic Flight Bag
+Hvilke funktioner kan fx være tilgængelig igennem en EFB? Navigation, kommunikation og instrumentvisninger
+Hvilke klasser indeles EFB i? Klasse 1, 2 og 3
+Hvad er en klasse 1 EFB? Et seperat system, der ikke sluttes direkte til flyet. Fx tablet eller computer
+Hvad er en klasse 2 EFB? Et seperat system, der sættes til flyet og får data der fra. Kan fjernes efter flyvning
+Hvad er en klasse 3 EFB? Et integret system, der er permanent indsat i flyet

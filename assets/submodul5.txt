@@ -1,0 +1,224 @@
+En blå farve i et cockpit angiver? At noget er ved at ske(Fx landing gear).
+En gul farve i cockpit angiver? Caution. 
+En rød farve i cockpit angiver? Warning. Tag handling for at stoppe faren.
+Under flyvning må instrumenter normalt udsættes for?9G.
+Ved en A fejl på et kompas, er der tale om? En mekanisk fejl.
+Ved en B fejl på et kompas, er der tale om? En magnetisk fejl - øst/vest fejlvisning.
+Ved en C fejl på et kompas, er der tale om? En tværgående magnetiske fejl - nord/syd fejlvisning.
+Hvad er formålet med en Cockpit Voice Recorder (CVR)? At optage lyd fra cockpit området
+Hvor får en Cockpit Voice Recorder (CVR) sine data fra? Fra en mikrofon placeret centralt i cockpittet
+Hvad er formålet med en Flight Data Recorder (FDR)? At oplagre data vedrørende flyvning, til brug under et opklaringsarbejde
+Hvad er en ULD/B og hvornår begynder den at sende? Underwater Locator Beacon - når den rammer vand
+Hvilke fordele er der ved at anvende Electronic Flight Instrument System (EFIS)? Flere informationer kan præsenteres på en logisk måde
+Hvilken funktion har en Symbol Generator (SG) i et Electronic Flight Instrument System (EFIS)? Den fremstiller symboler/billeder der vises på EFIS
+Hvilke typiske instrumenter kan en turbinemotors ydelse bestemmes ud fra? Omdrejning, Tryk, Torque
+Hvilke typer af turbinemotorer anvender et torque meter til at bestemme deres ydelse? Turboprop og Turboshaft
+Hvorfor holder man øje med en turbinemotors vibrationer? Det kan på forhånd sige om der vil komme problemer med motoren.
+Hvad består et AC-Tachometer af? En indikator og en generator
+Hvad anvendes et synkronoskop til? Til at finjustere motoromdrejninger på fly med flere motorer
+Hvad er forskellen mellem en aneroid og en membrandåse? Trykket tilføres membrandåsens indre
+Hvordan virker et bourdonrør? Et bøjet ovalt rør der under tryk prøver at rette sig ud
+Hvad angiver et fuel flow system? Det øjeblikkelige brændstofforbrug af flyets moterer
+Hvordan ændrer modstanden sig med temperaturen i et modstandselektrisk temperaturmålesystem? Den bliver højere
+Hvad måler indikatoren i et simpelt modstandselektrisk temperaturmålesystem? Strøm
+Hvad anvende Autosyn til? Overførelse af mekanisk bevægelse via elektrisk vej
+Hvilken spændingstype tilføres Desyn? Jævnstrøm
+Hvilken fordel har et Gyrosyn Kompas System frem for en simpel kursgyro? Der er ingen drift i dette system
+Hvilken opgave har en Flux valve? Sørge for at gyroen kan sammeligne sin stilling med retningen til magnetisk nord
+Hvor kan det ses om gyroen står korrekt? Slaving Indicator
+Hvad kaldes de to systemer som viser information fra gyrosyn kompas systemet? Horizontal Situation Indicator (HSI) og Radio Magnetic Indicator (RMI)
+Hvad er Stall Warning? Hvis flyet når en kritisk indfaldsvinkel vil Stall Warning alarmere piloten
+Hvad måler et AOA system? Flyets indfaldsvinkel
+Langs hvilken akse måler accelerometeret i et fly og hvad kaldes denne måler? z-aksen, det kaldes en G-måler
+Hvad viser et accelerometer under normal vandret flyvning? 1G
+Hvad er formålet med et Fatique Load Meter? At måle om flyets accelerations grænseværdier overskrides 
+Hvad er en Gyro? Et roterende legeme der opretholder en konstant orientering
+Hvad er en rategyro? En gyro med én gimbal ring
+Til hvilke instrumenter kan en rategyro bruges? Turn and bank indicator
+Hvad er forskellen mellem en drejnings- og krængningsviser og en turn coordinator? I en turn coordinator sidder gyroen vinklet med ca 35 grader for at give en mere præcis måling
+Hvad anvendes gyrohorisonten til? Den viser hvordan du ligger i luften
+Hvilken gyro anvendes i en gyrohorisont? Vertikal gyro
+Hvad anvendes en kursgyro til? Til at angive flyets kurs
+Hvilken gyro anvendes i en kursgyro? Directional gyro
+Hvordan frembringes "suction" på en pnematisk drevet gyro? Via små huller i gyroen, hvor forbipasserende luft kan skabe undertryk/suction
+Hvorfor er pitotrøret opvarmet? Så der ikke kan dannes is og tillukke pitothullet
+Hvorfor er der ofte statisk indtag på begge sider af flyet? Så flyet stadig kan lave præcise målinger hvis flyet drejer
+Hvilket tryk tilføres en trykhøjdemåler? Statisk
+Hvad angiver barometerskalaen på en trykhøjdemåler? Referencetrykket
+Hvad viser et variometer? Med hvilen hastighed flyet ændrer højde med
+Hviket tryk tilføres et variometer? Statisk
+Hvilket tryk tilføres en fartmåler? Dynamisk
+Hvad viser et machmeter? Flyets hastighed i forhold til lydens
+Hvilke informationer tilføres en Air Data Computer? AOA, temperatur, total tryk og statisk tryk
+Hvordan opnåes total air temperature? Ved at bringe luften til total stilstand og derefter måle det
+Hvorfor anvendes der farveafmærkning på instrumenter? For at gøre det nemt for piloten at overskue et systems tilstand
+Hvorfor anvendes der farvede lamper på et instrumentpanel? Det øger sikkerheden for at en fejl i flyets system opdages
+Når frekvensen bliver højere vil bølgelængden blive? Kortere
+Hvad gør osciliator delen i en AM radio sender? Den generer RF frekvensen
+Hvad gør en demodulator i en AM radio modtager? Den pakker signalet ud og generer audio signal, video signal eller data signal
+Hvilken opgave har en static discharger i forhold til radioudstyret i et fly? Den skal sørger for at der ikke sker skade på udstyret
+Hvad anvendes et audio control panel til? Til at vælge hvilke kanaler/frekvenser der vil modtages og sendes fra
+Hvad er formålet med et PA system? At give information til passagerne
+Hvad er forskellen på barometrisk og teknisk atmosfære? Barometrisk er standarder som egentlig er målt, hvor tekniske er til udregninger.
+Hvor bruges thermoelektriske temperatur målinger? Det bruges til at måle høje temperaturer ved turbinen og udstødningen
+Hvad er et synkronoskop? Det er et tilstandsinstrument, der bruges til at få moterer til at køre ens for at undgå vibrationer-
+Hvad er et ydelsesinstrument? Et instrument der måler ydelsen af en komponent, f.eks. EPR og N_1
+Hvad anvendes en kursgyro til og hvilken type gyro er det? Viser flyets kur. Det er en directional gyro der er monteret i to gimballringe og har frihed i tre akser.
+I hvilket temp. område anvendes thermoelektriske temperaturmålere og hvad måler den? I temp. området fra 400-1400 grader celcius, og den måler TIT/ITT/EGT.
+Til hvilke tryk anvendes en aneroid trykmåler? Det bruges til måling af små tryk.
+Hvad anvendes en flowmåler til? Til at måle flowet på en given væske eller luft.
+Hvordan virker en mekanisk temperaturmåler? Det virker ved at en bimetalfjeder udvider sig og trækker sig sammen.
+Hvilke gyrotyper findes der? En fri gyro (to gimballringe og frihed i tre akser), en bunden gyro og en rate gyro (en gimballring og frihed i to akser).
+Hvad er deviation indenfor kompasser? Forstyrrelser i kompasset pba. dets eget magnetisme.
+Hvad er en rate gyro, og hvor bruges den? Det er en gyro hængt op i en gimballring med frihed om to akser, bruges f.eks. i en turncoordinator.
+Hvad viser drejningsviseren? Den viser drejningsretninegn, samt vinkelhastigheden af kursændringen.
+Hvad viser krængningsviseren? Den viser virkningen omkring flyets yaw-akse.
+Hvad er en gyrohorisont? Det et en instrument der laver en kunstig horizont. Det er en vertical gyro der er ophængt i to gimballringe med frihed i tre akser.
+Hvad kaldes de instrumenter der modtager signal fra gyro kompas systemet? De hedder Radio magnetic indication (RMI) og Horizontal situation indicator (HSI).
+Hvad er de tre egenskaber der gør gyros stiv? Højre omdrejninger, stor masser og massens fordeling.
+Hvad består et AC-tachometersystemer af og hvor bruges det? Det er en omdrejningstæller der består af en generator (der sidder på komponenten) og en indicator. Den bruges primært på større fly.
+Hvad står GPWS for? Ground Proximity Warning System
+Hvad står 'E'-et i EGPWS for? Enhanced
+Hvad står DME for? Distance Measurement Equipment
+Hvad hedder den afstand en DME måler? Slant distance
+Hvordan virker en radar grundlæggende? Elektromagnetiske bøler sendes ud og de reflekteres af objekter i luften
+Hvad er sikkerhedsafstanden foran en vejrradar, der kører mens flyet står på jorden? 200-300 fod lige foran flyet, og 10-15 fod til siderne i en 180 graders vinkel.
+Hvad står ILS for? Instrumental Landing System
+Hvad anvendes ILS til? Instrumental approach af lufthavn
+Hvor mange kategorier findes ILS i? 3
+Hvad er en kategori 1 ILS? Et ILS system med decision altitude i 200 fod
+Hvad er en kategori 2 ILS? Et ILS system med decision height i 100 fod
+Hvad er en kategori 3 ILS? Et ILS system, der kræver sigt på min 75 meter
+Hvad anvendes Marker Beacon til? Giver piloten en indikation af at han kommer tættere på lufthavenen, samt et punkt han skal kontrollere sin højde
+Hvad anvendes et Radio Altimeter System til? Et præcis højdemåling via radar
+Hvad anvednes et Automatic Direction Finder (ADF) system til? Anflyvning mod lufthavn
+Hvilket frekvensområde arbejder et ADF system i? 190-1750 kHz
+På hvilket instrument kan information fra ADF vises? RMI
+Hvilket frekvensområde arbejder VOR i? 108-117.95 MHz
+Hvad kaldes de stedlinjer, der udstråles fra VOR stationer? Radialer
+Hvor mange radialer udstråler en VOR station? 360
+På hvilket instrument kan informationen fra VOR stationer vises? RMI
+Hvad står ACARS for? Aircraft Communication And Addressing Radio System
+Hvad står OOOI for? Out Off On In
+Hvad kommunikere ACARS igennem? VHF og SATCOM
+Hvad hedder de tre hovedkomponenter i SATCOM? Satellit, Aircraft Earth Station og Ground Earth Station
+Hvad er fordelen ved en High Gain Antenna i SATCOM? Man får et retningsbestemt signal med høj båndbredde
+Hvilken frekvens anvender en civil ELT? 121.5 MHz eller 406 MHz
+Hvilken frekvens anvender en militær ELT? 243 MHz eller 406 MHz
+Hvad anvendes VHF kommunikation til? Line of sight kommunikation
+Hvad er frekvensområder of VHF stråler? 118-136.975 MHz
+Hvad anvendes HF signaler primært til? Lang distance kommunikation via jordstationer og refleksion i ionosfæren
+Hvad gør en antenne coupler? Fjerner nødvendigheden af mange antenner
+Når frekvens bliver højere bliver bølgelængden? Lavere
+En bølge med stor bølgelængde har en frekvens, der er relativt? Lav
+Hvad gør en oscillator? Føder en bærebølge til AM radio
+Hvad står AM for? Amplitude Modulation
+Hvad står FM for? Frekvens Modulation
+Er informationen indkodet i amplitude eller frekvens i en AM radio? Amplitude
+Er informationen indkodet i amplitude eller frekvens i en FM radio? Frekvens
+Hvad er opgaven for en statick wick, i forhold til radioudstyr for fly? Undgå støj ved at aflade statisk elektricitet
+Hvad anvendes et Audio Control Panel til? Styre hvilke systemer, der lyttes og sendes til og fra
+Hvad er formålet med et PA system? Hurtight og effektivt at kunne informere alle passagere
+Hvad betyder direct sensing? Sensoren og viseren er mekanisk forbundet
+Hvad betyder remote sensing? Viseren fungere pbga fortolkning af et sensor signal
+Hvorfra nummereres motorer? Fra venstre mod højre
+Hvad er trykket på en ICAO standard dag? 1013 hPa
+Hvad er forkortelsen for lufttrykket over landingsbanen? QFE
+Hvad er forkortelsen for lufttrykket over havoverfladen? QNH
+Hvad er forkortelsen for et lufttryk på 1013 hPa? QNE
+Hvad bruges QNE trykket til? Bruges til at indele luftrummet i flight levels
+Hvad bruger interphone systemet til? Kommunikation internt mellem crewet
+Hvad viser 'bolden' i en drejnings- og krængningsviser? Retningen på normalkraften i flyet
+Hvad er gør en stick shaker? Ryster sticken for at fortælle piloten han er tæt på stall
+Hvad gør en stick pusher? Presser sticken frem for at undgå stall. Overrider piloten
+Hvad måler en G måler forholdet mellem? Lift og vægt
+Hvad betyder det at en modstandselektrisk er PTC? Den har en Positiv Temperatur Koefficint og modstanden stiger med temperaturen
+Hvad betyder det at en modstandselektrisk er NTC? Den har en Negativ Temperatur Koefficint og modstanden falder med stigende temperaturen
+Hvad er en transmission line? En ledning til transport af elektriske signaler
+Op til hvilken frekvens bruges coax kabler? 3 GHz
+Hvad er det moderne lovkrav til afstand mellem kanaler på VHF? 8.33 kHz
+Hvad er en RMP? Radio Management Panel
+Hvad kan indstilles på en RMP? Bærefrekvens til VHF transceiver
+Hvad betyder 'self call'? Der gives et ping hvis nogen vil tale med dig
+Hvorfor anvendes 'self call'? For at piloten ikke behøver lytte til HF støj hele tiden
+I OOOI kan Out fx dække over? Når en dør lukkes
+I OOOI kan Off fx dække over? Når der ikke længere er weight on wheels
+I OOOI kan On fx dække over? Når der er weight on wheels
+I OOOI kan In fx dække over? Når døren til kabinen åbnes
+Hvad sendes automatisk over ACARS? Loadsheet report og crew+PAX liste
+Hvad er en heading? En retning der flyves i
+Hvad er en magnetic heading? En retning relativ til magnetisk jord
+Hvad er et flys track? Flyets bane over jordens overflade
+Hvad skal en loop antenna kombineres med for at fjerne tvetydighed om retning? En rundstrålende antenne
+Hvad er en ADF? En automatic Direction Finder
+Hvad står VOR for? VHF Omnidirectional Range
+Hvad er TACAN? En militær ækvivaltens til VOR
+Hvad er en glideslope? Et track ned til banen.
+Hvad fungere ILS igennem? VOR
+Hvad kan GPWS opdage fx? Controlled Flight Into Terrain (CFIT)
+Hvad står WXR for? Weather Radar
+Hvad er en trandponder? En box der modtager et ping fra jorden og svarer med en squawk kode
+Hvad er never use koderne på transpondere? 7500, 7600 og 7700
+Hvad bruges transponderkode 7500 til? Angive high jacking
+Hvad bruges transponderkode 7600 til? Angive radiofejl
+Hvad bruges transponderkode 7700 til? Angive emergency
+Hvad er det største tal, der kan stå på en transponder? 7777
+Hvad bruges TCAS til? At undgå kollisioner i luften
+Hvad for et input bruger TCAS systemet? Højde, fart, position og flyveretning
+Hvad står TCAS for? Traffic alert & Collision Avoidance System
+Hvad står GPS for? Global Positioning System
+Hvad tager FANS sig af? Kommunikation, navigation og surveilance 
+Hvad udsender en transponder i mode C? Barometrisk højde på flyet
+Hvad udsender en transponder i mode A? Identifikationskode på flyet i form af 4 cifret tal
+Hvad udsender en transponder i mode S? TCAS information
+Hvor mange modes kan en civil transponder sættes i? 3
+Hvad hedder de modes en civil transponder kan sættes i? C, A og S
+Hvilke typer komponeneter/følere anvendes på en ISS platform? Gyroer og accelerometre
+Hvad står ISS for? Inertial Stabilized System
+Hvad fås af output fra AHRS? Pitch/roll attitude, magnetic heading, vertical speed og ground speed
+Hvad står AHRS for?Attitude Heading Refference System
+Hvad kan en IRS ud over hvad en AHRS kan? Beregne position relativ til en kendt start position
+Hvad står IRS for? Inertial Reffernece System
+Hvad sker der i en IRS under "Allign Phase"? Den kallibreres mens flyet står stille
+Hvilke to dele kan en FMC indeles i? Navigation computer og performance computer
+Hvilken del af FMC er VNAV en del af? Performance computeren
+Hvilken del af FMC er LNAV en del af? Navigation computeren
+Hvad står FMC for? Flight Management Computer
+Hvilke undersystemer består et nyere "Autoflight System" oftest af? Auto pilot, flight director, auto throttle, autotrim og yaw dampner
+Hvilken funktion har en "Autopilot"?Den styrer som udgangspunkt roll og pitch, men kan også styre yaw. Er den aktive del, der styrer flyet
+Hvilken funktion har en flight director? Giver passive indikationer og inputs til hvordan flyet "burde" flyves. Styrer IKKE flyet
+Hvilken funktion har "Inner loop" i autopiloten? Den regulerer roudslag givet en refferencevinkel via et feedback loop
+Hvad vil det sige at en autopilot er "Fail Operational"? 3 seperate systemer overvåger hinanden og hvis en er uenig med de to andre, vil det være disse, der styrer.
+Hvad forstås ved "Flight Envelope Protection"? Holder flyet indenfor sine mekaniske begrænsninger, ved at begrænse de udslag piloten kan inducere i flyet
+Hvad dækker begrevet "Fail passive" over? Et autopilot system med to systemer, der kun styrer flyet hvis begge er enige.
+Hvad dækker begrebet "Fail Safe Autopilot" over? Et simpelt autopilot system, der kun kan styre flyet over en given højde, for at give piloten tid til at gribe ind i tilfælde af fejl
+Hvor ses kontrolpanelet til autopiloten oftest i cockpittet? Centralt og i øjenhøjde for at holde piloten opmærksom på dens indstillinger
+Hvad gør "Outer Loop" i autopiloten? Giver inputs til inner loop, udfra en ønsket flight path for flyet
+Hvorfor skal "Inner Loop" have IAS som input? Fordi Indicated Air Speed er afgørende for hvor stort et rorudslag, der skal bruges for at ændre flyets attitude.
+Langs hvilken akse styrer autothrottle flyet? Langs x-aksen
+Hvad er en TOGA i en autopilot? Et system hvor take-off og go-around kan styres fra samme knap på gashåndtaget
+Hvorfor findes yaw damper i autoflight systemet? For at hindre piloten inducerer et dutch roll i flyet
+Hvad er et dutch roll? En svingning i flyvningen hvor flyet konstant overkorrigerer, og derfor forbliver i svingningen
+Hvorfor gives flyet et roll moment når det går ind i et dutch roll? Yaw bevægelsen giver anledning til mere lift på den ene vinge end den anden, og derfor ruller flyet
+Hvad er den primære grund til at vi vil undgå dutch roll? Komfort, slitage og brændstoføkonomi
+Hvorfor anvendes et band pass filter i en yaw dampner? For at yaw dampner ikke hindre vores evne til at dreje
+Hvad hjælper yaw dampner med når piloten vil dreje? Sikre at piloten flyver koordineret, således at piloten ikke behøver at bruge pedalerne når han drejer
+Hvilken type gyro får en yaw damper input fra, for at kende flyets yaw rate? Rate gyro
+Hvornår slås yaw damper til? Den kører hele tiden
+Hvad vil det sige at et fly et "trimmet"? Det flyver uder ændring i retning og højde hvis man slipper sit kontrolhåndtag
+Hvilken akse trimmes der mest på? Y-aksen (Pitch trim)
+Hvad kan trimmes udover pitch? Roll og yaw
+Hvilken flade rykkes der på når store moderne fly trimmes? Horisontal stabilizer
+Hvis autopiloten er til, hvad sker så hvis piloten selv trimmer flyet? Så slår autopiloten fra
+Hvad får autotrim til at trimme flyet? Når autopilot holder elevator ved et konstant udslag, trimmes flyet i stedet for at mindske rorudslaget
+Hvorfor trimmes hele horisontal stabilizer på store fly? Det er mere brændstoføkonomisk end at trimme på elevator
+Hvad er machtrim? Et trim der modvirker tug under ved høje hastigheder
+Hvad sker der på fly med motorne på undersiden af deres lave vinger, hvis de giver pludselig høj thrust ved lav hastighed? Det giver nose up attitude, der giver fare for stall
+Hvad er speed mode på et autothrust system? Det er et flys ækvivalent til en fartpilot. Sikre at flyet flyver med konstant hastighed
+Hvad er thrust mode på et autothrust system? Sikre at flyets motorer har en bestemt ydelse
+Hvornår bruges thrust mode? Når flyet skal lette eller på anden måde ændre højde
+Hvornår bruges speed mode? Når flyet flyver i cruise og blot skal holde den mest optimale hastighed
+Hvilke fly anvendes thrust hold på? Det anvendes på fly med mekanisk forbindelse mellem thrust lever og motor
+Hvad gør thrust hold? Slår kontrolcomputer fra når korrekt fart er opnået under take-off
+Hvad er forskellen på autothrottle og autothrust? Autothrottle dækker over kontrolcomputer på fly med mekanisk forbindelse mellem power lever og motor, og autotrhust er på fly med fly-by-wire
+Hvilken rorflade er yaw damper tilkoblet? Rudder
